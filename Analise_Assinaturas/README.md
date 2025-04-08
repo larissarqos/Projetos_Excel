@@ -34,16 +34,26 @@ Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dic
 
 ### 2. Respondendo às perguntas de negócio
 
-1. **Qual o faturamento do mês?**
+**1. Qual o faturamento do mês?**
    * O faturamento do mês foi de **R$26.467,80**. Caso se mantenha na faixa dos R$25.000, fecharemos o ano com um faturamento de aproximadamente R$300.000.
   
-2. Que serviço é o mais adquirido?
-   * O produto que conta com mais assinantes é o Magic Box, 35% do total de assinaturas. Considerando o impacto dos serviços no faturamento, temos: A maioria dos clientes possui nossos serviços mais baratos. Notamos que, apesar de contar com o maior número de assinaturas, Magic Box é o produto com menor impacto no faturamento.
+**2. Que serviço é o mais adquirido?**
+   * O produto que conta com mais assinantes é o **Magic Box, 35% do total de assinaturas**. Considerando o impacto dos serviços no faturamento, temos:
+| Serviço | Valor da Assinatura | Total de Assinaturas | Faturamento |
+|:----------:|:----------:|:----------:|:----------:|
+| CPF | CPF do cliente  | CPF | CPF do cliente  |
+| Nome   | Nome completo do cliente   | CPF | CPF do cliente  |
+| Genero   | Gênero (masculino ou feminino)  | CPF | CPF do cliente  |
+| Nivel_Estudos | Formação dos clientes (ensino méd| CPF | CPF do cliente  |
+| Interesse/Hobby  | Interesses/Hobbies   | CPF | CPF do cliente  |
+| Regiao  | Estado em que mora  | CPF | CPF do cliente  |
 
-3. Qual o perfil dos nossos clientes?
+A maioria dos clientes possui nossos serviços mais baratos. Notamos que, apesar de contar com o maior número de assinaturas, Magic Box é o produto com menor impacto no faturamento.
+
+**3. Qual o perfil dos nossos clientes?**
    * Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram, a maior parte deles é do **Rio Grande do Sul (51%)**, seguido do **Paraná (27%)** e **Santa Catarina (22%)**. De acordo com o gênero e faixa etária, a maior parte dos nosso clientes é do sexo masculino. A faixa etária predominante é de 35-44 e 54-70, para ambos os sexos.
 
-5. Qual a avaliação dos nossos serviços?
+**5. Qual a avaliação dos nossos serviços?**
    * De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
 
 <br>
