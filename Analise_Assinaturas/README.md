@@ -54,6 +54,7 @@ Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram,
 
 **5. Qual a avaliação dos nossos serviços?**  
 De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
+
 <br>
 
 ### 3. Como melhorar nosso faturamento e atendimento?
