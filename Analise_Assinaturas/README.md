@@ -3,6 +3,7 @@
 ## Contexto
 A área comercial de uma empresa fictícia de serviços de assinatura deseja saber seu desempenho naquele mês. Eles precisam compreender melhor que fatores têm maior impacto em seu faturamento, bem como qual o feedback de seus clientes em relação aos seus produtos e atendimento. Tudo isso servirá de norte para a implementação de melhorias no setor comercial da empresa.
 
+<br>
 ## Objetivos
 O objetivo da análise é, para além descobrir o desempenho da empresa no mês, identificar oportunidades de negócio que levem ao aumento no faturamento da empresa e melhor satisfação dos clientes. Para isso, responderemos às seguintes perguntas:
 
@@ -11,6 +12,7 @@ O objetivo da análise é, para além descobrir o desempenho da empresa no mês,
 * Qual é o perfil dos nossos clientes? 
 * Qual a avaliação dos nossos serviços?
 
+<br>
 ## Estrutura do Projeto
 ### 1. Banco de dados
 Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dicionário dos dados:
@@ -29,8 +31,8 @@ Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dic
 | Avaliacao  | Avaliação dos clientes sobre os serviços de assinatura  |
 | Assinatura  | Serviço de assinatura contratado  |
 | Mensalidade  | Valor do serviço de assinatura contratado  |
-<br>
 
+<br>
 ### 2. Respondendo às perguntas de negócio
 
 **1. Qual o faturamento do mês?**  
@@ -52,11 +54,10 @@ A maioria dos clientes possui nossos serviços mais baratos. Notamos que, apesar
 **3. Qual o perfil dos nossos clientes?**  
 Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram, a maior parte deles é do **Rio Grande do Sul (51%)**, seguido do **Paraná (27%)** e **Santa Catarina (22%)**. De acordo com o gênero e faixa etária, a maior parte dos nosso clientes é do **sexo masculino**. A faixa etária predominante é de **35-44 e 54-70, para ambos os sexos**.
 
-**5. Qual a avaliação dos nossos serviços?**  
+**4. Qual a avaliação dos nossos serviços?**  
 De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
 
 <br>
-
 ### 3. Como melhorar nosso faturamento e atendimento?
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
