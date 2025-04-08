@@ -29,7 +29,6 @@ Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dic
 | Avaliacao  | Avaliação dos clientes sobre os serviços de assinatura  |
 | Assinatura  | Serviço de assinatura contratado  |
 | Mensalidade  | Valor do serviço de assinatura contratado  |
-
 <br>
 
 ### 2. Respondendo às perguntas de negócio
@@ -55,10 +54,9 @@ Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram,
 
 **5. Qual a avaliação dos nossos serviços?**  
 De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
-
 <br>
 
-### 4. Como melhorar nosso faturamento e atendimento?
+### 3. Como melhorar nosso faturamento e atendimento?
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
 **Relativas ao faturamento**
