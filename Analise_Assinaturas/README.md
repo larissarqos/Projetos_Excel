@@ -3,8 +3,6 @@
 ## Contexto
 A área comercial de uma empresa fictícia de serviços de assinatura deseja saber seu desempenho naquele mês. Eles precisam compreender melhor que fatores têm maior impacto em seu faturamento, bem como qual o feedback de seus clientes em relação aos seus produtos e atendimento. Tudo isso servirá de norte para a implementação de melhorias no setor comercial da empresa.
 
-<br>
-
 ## Objetivos
 O objetivo da análise é, para além descobrir o desempenho da empresa no mês, identificar oportunidades de negócio que levem ao aumento no faturamento da empresa e melhor satisfação dos clientes. Para isso, responderemos às seguintes perguntas:
 
@@ -12,8 +10,6 @@ O objetivo da análise é, para além descobrir o desempenho da empresa no mês,
 * Que serviço é o mais adquirido?
 * Qual é o perfil dos nossos clientes? 
 * Qual a avaliação dos nossos serviços?
-
-<br>
 
 ## Estrutura do Projeto
 ### 1. Banco de dados
@@ -34,7 +30,7 @@ Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dic
 | Assinatura  | Serviço de assinatura contratado  |
 | Mensalidade  | Valor do serviço de assinatura contratado  |
 
-<br>
+<span style="display:block; margin-top:3px;"></span>
 
 ### 2. Respondendo às perguntas de negócio
 
