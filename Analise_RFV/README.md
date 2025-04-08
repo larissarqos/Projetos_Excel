@@ -39,7 +39,8 @@ Métricas utilizadas ao estabelecer a recência, frequência e valor.
 | 4  | 60 |
 | 3  | 120|
 | 2  | 180 |
-| 1  | 365 |
+| 1  | 365 |  
+
 
 * **Cálculo de frequência:** Utilizamos notas de 1 a 5, sendo 5 para a maior frequência (12 compras) e 1 para a menor frequência (1 compra). Os valores atribuídos para cada nota levaram em consideração a frequência de compra dos clientes.
   
@@ -49,7 +50,8 @@ Métricas utilizadas ao estabelecer a recência, frequência e valor.
 | 4  | 11 |
 | 3  | 8 |
 | 2  | 5 |
-| 1  | 1 |
+| 1  | 1 |  
+
 
 * **Cálculo de valor:** Utilizamos notas de 1 a 5, sendo 5 para o maior valor de compra e 1 para o menor. Os valores aplicados para cada nota levaram em consideração o ticket médio dos clientes. O valor de ticket médio 10% mais alto levou nota 5,  20% mais alto nota 4, e segue de acordo com a tabela.
 
@@ -59,7 +61,8 @@ Métricas utilizadas ao estabelecer a recência, frequência e valor.
 | 4  | 20% | R$5.742,40 |
 | 3  | 40% | R$5.168,20 |
 | 2  | 70% | R$4.485,60 |
-| 1  | 90% | R$3.839,55 |
+| 1  | 90% | R$3.839,55 |  
+
 
 <br>
 
