@@ -1,7 +1,3 @@
-
-![Uploading pexels-artempodrez-5716032.jpg…]()
-
-
 <h1 align="center">Business Case - Dashboard Comercial</h1>
 
 ## Contexto
