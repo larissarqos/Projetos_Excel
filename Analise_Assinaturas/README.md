@@ -47,6 +47,7 @@ O produto que conta com mais assinantes é o **Magic Box, 35% do total de assina
 | Premium X   | R$79,90             | 136                   | R$10.866,40     |
 | Safe Watch  | R$29,90             | 232                   | R$6.936,80      |
 | **Total**   | --                  | **802**               | **R$26.467,80** |
+
 A maioria dos clientes possui nossos serviços mais baratos. Notamos que, apesar de contar com o maior número de assinaturas, Magic Box é o produto com menor impacto no faturamento.
 
 **3. Qual o perfil dos nossos clientes?**
