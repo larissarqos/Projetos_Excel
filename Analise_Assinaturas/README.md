@@ -37,7 +37,7 @@ Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dic
 1. Qual o faturamento do mês?
    * O faturamento do mês foi de **R$26.467,80**. Caso se mantenha na faixa dos R$25.000, fecharemos o ano com um faturamento de aproximadamente R$300.000.
    <p align="center">
-    <img src="https://github.com/user-attachments/assets/3ff15f7a-2762-4eae-92d0-4e92978beae2" height="200" width="400"/>
+    <img src="https://github.com/user-attachments/assets/3ff15f7a-2762-4eae-92d0-4e92978beae2" height="150" width="500"/>
    </p>
   
 2. Qual é o valor médio de receita por cliente em cada cidade?
