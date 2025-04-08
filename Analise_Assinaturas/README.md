@@ -34,11 +34,8 @@ Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dic
 
 ### 2. Respondendo às perguntas de negócio
 
-1. Qual o faturamento do mês?
+1. **Qual o faturamento do mês?**
    * O faturamento do mês foi de **R$26.467,80**. Caso se mantenha na faixa dos R$25.000, fecharemos o ano com um faturamento de aproximadamente R$300.000.
-   <p align="center">
-    <img src="https://github.com/user-attachments/assets/3ff15f7a-2762-4eae-92d0-4e92978beae2" height="130" width="350"/>
-   </p>
   
 2. Que serviço é o mais adquirido?
    * O produto que conta com mais assinantes é o Magic Box, 35% do total de assinaturas. Considerando o impacto dos serviços no faturamento, temos: A maioria dos clientes possui nossos serviços mais baratos. Notamos que, apesar de contar com o maior número de assinaturas, Magic Box é o produto com menor impacto no faturamento.
