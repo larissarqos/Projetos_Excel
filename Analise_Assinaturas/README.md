@@ -34,7 +34,7 @@ Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dic
 
 ### 2. Respondendo às perguntas de negócio
 
-**1. Qual o faturamento do mês?**
+**1. Qual o faturamento do mês?**  
 O faturamento do mês foi de **R$26.467,80**. Caso se mantenha na faixa dos R$25.000, fecharemos o ano com um faturamento de aproximadamente R$300.000.
   
 **2. Que serviço é o mais adquirido?**
