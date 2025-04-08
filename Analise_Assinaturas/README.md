@@ -40,7 +40,7 @@ Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dic
 **2. Que serviço é o mais adquirido?**
    * O produto que conta com mais assinantes é o **Magic Box, 35% do total de assinaturas**. Considerando o impacto dos serviços no faturamento, temos:
 | Serviço | Valor da Assinatura | Total de Assinaturas | Faturamento |
-|----------|----------|----------|----------|
+|----------|----------|----------|
 | Deluxe Box | R$35,90 | 168 | R$6.031,20  |
 | Magic Box | R$9,90  | 266 | R$2.633,40 |
 | Premium X | R$79,90 | 136 | R$10.866,40 |
