@@ -4,6 +4,7 @@
 A área comercial de uma empresa fictícia de serviços de assinatura deseja saber seu desempenho naquele mês. Eles precisam compreender melhor que fatores têm maior impacto em seu faturamento, bem como qual o feedback de seus clientes em relação aos seus produtos e atendimento. Tudo isso servirá de norte para a implementação de melhorias no setor comercial da empresa.
 
 <br>
+
 ## Objetivos
 O objetivo da análise é, para além descobrir o desempenho da empresa no mês, identificar oportunidades de negócio que levem ao aumento no faturamento da empresa e melhor satisfação dos clientes. Para isso, responderemos às seguintes perguntas:
 
@@ -13,6 +14,7 @@ O objetivo da análise é, para além descobrir o desempenho da empresa no mês,
 * Qual a avaliação dos nossos serviços?
 
 <br>
+
 ## Estrutura do Projeto
 ### 1. Banco de dados
 Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dicionário dos dados:
@@ -33,6 +35,7 @@ Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dic
 | Mensalidade  | Valor do serviço de assinatura contratado  |
 
 <br>
+
 ### 2. Respondendo às perguntas de negócio
 
 **1. Qual o faturamento do mês?**  
@@ -58,6 +61,7 @@ Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram,
 De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
 
 <br>
+
 ### 3. Como melhorar nosso faturamento e atendimento?
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
