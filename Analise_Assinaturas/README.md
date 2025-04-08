@@ -30,8 +30,7 @@ Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dic
 | Assinatura  | Serviço de assinatura contratado  |
 | Mensalidade  | Valor do serviço de assinatura contratado  |
 
-<span style="display:block; margin-top:10px;"></span>
-
+<br>
 
 ### 2. Respondendo às perguntas de negócio
 
