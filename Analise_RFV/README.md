@@ -89,7 +89,7 @@ Há uma série de medidas que podemos adotar, conforme notas dos clientes nos di
 
 * **Baixa frequência:** Clientes com pouca frequência, mas alta ou média recência, pode indicar que são novos. São clientes promissores, é importante construir um relacionamento com eles, aplicando ofertas e descontos especiais.
 
-* **Baixo valor:** Na nossa análise, percebemos muitos clientes com notas em valor entre 3 e 4, mesmo contando com alta frequência e recência. Isso pode ocorrer se os produtos adquiridos têm menor preço, por exemplo. Clientes com baixo valor podem indicar também uma baixa frequência. É importante incentivar esses clientes com promoções especiais, buscando aumentar seu ticket médio.
+* **Baixo valor:** Na nossa análise, percebemos muitos clientes com notas em valor entre 3 e 4, mesmo contando com alta frequência e recência. Isso pode ocorrer se os produtos adquiridos têm menor preço, por exemplo. É importante incentivar esses clientes com promoções especiais, buscando aumentar seu ticket médio.
 
 * **Alto RFV:** Clientes com alta recência, frequência e valor são fiéis e é importante mantê-los. Uma boa forma de fazer isso é aplicando programas de fidelidade, recompensas/pontos e mesmo premiações para estes, o que vai fortalecer seu laço e fidelidade com a empresa. Um programa de recomendação também pode funcionar muito bem, pois estaremos influenciando nossos melhores clientes a indicar nossos produtos/serviços a pessoas com perfil próximo ao deles, o que pode gerar mais clientes promissores.
 
