@@ -1,6 +1,9 @@
 
 <h1 align="center">Business Case - Análise de Vendas</h1>
-![analise_vendas](https://github.com/user-attachments/assets/bb3f8f0f-3673-4b3d-b95e-0262a50532d5)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/779ac29a-fc13-4357-8dca-14d2e2abb3c7" alt="analise_vendas" width="500"/>
+</p>
 
 
 
