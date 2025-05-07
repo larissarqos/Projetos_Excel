@@ -1,5 +1,7 @@
 
 <h1 align="center">Business Case - Análise de Vendas</h1>
+![image](https://github.com/user-attachments/assets/4d1a8749-f51f-4bc4-a2d0-ef5566b2de1b)
+
 
 ## Contexto
 O setor comercial de uma rede de lojas fictícia de roupas deseja saber o resultado das vendas e desempenho de suas filiais ao longo do ano de 2024. Eles estabeleceram uma **meta mensal de R$7.000,00 de faturamento por loja** e desejam, através dessa análise, descobrir se a meta foi atingida ao longo do ano, bem como qual foi o desempenho geral da empresa, e quais lojas e produtos têm dado maior retorno nas vendas.
