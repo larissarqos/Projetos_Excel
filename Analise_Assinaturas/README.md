@@ -1,6 +1,7 @@
 <h1 align="center">Business Case - Dashboard Comercial</h1>
 
-## Contexto
+## Contexto![laptop-6241789_1280-removebg-preview](https://github.com/user-attachments/assets/e74a754c-960f-483e-a8a5-e441df12cdf7)
+
 A área comercial de uma empresa fictícia de serviços de assinatura deseja saber seu desempenho naquele mês. Eles precisam compreender melhor que fatores têm maior impacto em seu faturamento, bem como qual o feedback de seus clientes em relação aos seus produtos e atendimento. Tudo isso servirá de norte para a implementação de melhorias no setor comercial da empresa.
 
 ## Objetivos
