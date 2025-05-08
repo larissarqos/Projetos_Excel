@@ -1,7 +1,7 @@
 <h1 align="center">Análise de Vendas - Serviços de Assinatura</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3de1789e-bc19-497a-9db8-17244c75572f" alt="analise_vendas" width="900"/>
+  <img src="https://github.com/user-attachments/assets/3de1789e-bc19-497a-9db8-17244c75572f" alt="analise_vendas" width="600"/>
 </p>
 
 ## Contexto
