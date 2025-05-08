@@ -8,7 +8,7 @@
 ## 📃 Contexto  
 O setor comercial de uma rede fictícia de lojas de roupas deseja avaliar o desempenho de suas filiais ao longo do ano de 2024. Com uma **meta mensal de R$7.000,00 por loja**, a empresa busca entender se os objetivos foram alcançados, identificar quais unidades e produtos geraram maior retorno, além de obter uma visão consolidada sobre seu faturamento anual.
 
-___
+***
 
 🛠️ Ferramentas e Métodos Utilizados
 - Microsoft Excel
@@ -19,7 +19,7 @@ ___
 - Gráficos
 - Businnes Intelligence
   
----
+***
 
 ## 🎯 Objetivos  
 Para atender à demanda da empresa, realizamos uma análise exploratória das vendas de 2024, com foco nas seguintes questões-chave:
@@ -31,7 +31,7 @@ Para atender à demanda da empresa, realizamos uma análise exploratória das ve
 
 Com base nessas perguntas, conseguimos avaliar o desempenho por loja, produto e mês — oferecendo à empresa uma visão clara sobre os pontos fortes e oportunidades de melhoria.
 
----
+***
 
 ## 🧱 Estrutura do Projeto  
 
@@ -46,8 +46,7 @@ Com base nessas perguntas, conseguimos avaliar o desempenho por loja, produto e 
 | Quantidade       | Quantidade vendida                                     |
 | Valor_Total      | Valor total da venda (Quantidade × Valor Unitário)     |
 
---
-
+***
 
 ### 2. 📍 Respondendo às perguntas de negócio
 
@@ -63,12 +62,12 @@ O faturamento total do ano foi de **R$461.743,30**. As lojas do **Leblon** e de 
 | Tijuca   | R$67.689,58      | 14,6%                  |
 | **Total**| **R$461.743,30** | **100%**               |
 
---
+<br>
 
 #### 📌 2. Quais lojas mais venderam?  
 Em 2024, foram registradas **759 vendas**, totalizando **2.308 itens**. As filiais do **Leblon** e de **Ipanema** lideraram tanto em número de vendas quanto em faturamento.
 
---
+<br>
 
 #### 📌 3. Quais os produtos mais vendidos?  
 As vendas foram bem distribuídas entre os produtos. Porém, em termos de faturamento, os destaques foram **Camisa Linho**, **Oxford** e **Joa**, que juntas representaram mais de **70% do faturamento**.
