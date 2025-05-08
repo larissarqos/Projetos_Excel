@@ -49,12 +49,12 @@ A análise busca, além de diagnosticar o desempenho mensal da empresa, identifi
 
 ### 📍 2. Respondendo às perguntas de negócio
 
-** 📌 1. Qual foi o faturamento do mês?**  
+#### 📌 1. Qual foi o faturamento do mês?  
 O faturamento foi de **R$26.467,80**. Mantido esse ritmo, o ano pode fechar com aproximadamente **R$300.000**.
 
 <br>
   
-** 📌 2. Que serviço é o mais adquirido?**  
+#### 📌 2. Que serviço é o mais adquirido?**  
 O produto que conta com mais assinantes é o **Magic Box, 35% do total de assinaturas**. Consideremos o total de assinaturas por serviço e seus respectivos impactos no faturamento:
 
 | Serviço     | Valor (R$)          | Total Assinaturas     | Faturamento     |
@@ -69,7 +69,7 @@ O produto que conta com mais assinantes é o **Magic Box, 35% do total de assina
 
 <br>
 
-** 📌 3. Qual o perfil dos clientes?**  
+#### 📌 3. Qual o perfil dos clientes?**  
 Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram, a maior parte deles é do **Rio Grande do Sul (51%)**, seguido do **Paraná (27%)** e **Santa Catarina (22%)**. De acordo com o gênero e faixa etária, a maior parte dos nosso clientes é do **sexo masculino**. A faixa etária predominante é de **35-44 e 54-70, para ambos os sexos**.
 
 *Total de assinantes:* 802
@@ -85,8 +85,11 @@ Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram,
 
 <br>
 
-** 📌 4. Qual a avaliação dos nossos serviços?**  
-De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
+#### 📌 4. Qual a avaliação dos serviços?
+Avaliação geral positiva. As principais queixas envolvem:
+- Falta de itens
+- Atrasos na entrega
+- Embalagens danificadas ou defeitos nos produtos
 
 ***
 
