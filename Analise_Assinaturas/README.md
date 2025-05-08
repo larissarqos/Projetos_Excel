@@ -4,6 +4,8 @@
   <img src="https://github.com/user-attachments/assets/182b2b08-47ba-4512-9daf-1911b2c04fe5" alt="analise_vendas" width="1100" height="330"/>
 </p>
 
+<br>
+
 ## 📃 Contexto
 A área comercial de uma empresa fictícia de serviços de assinatura deseja compreender seu desempenho no mês. Os objetivos incluem entender os principais fatores que impactam o faturamento e a percepção dos clientes sobre produtos e atendimento, a fim de orientar melhorias estratégicas no setor comercial.
 
