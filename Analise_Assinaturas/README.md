@@ -10,10 +10,9 @@ A área comercial de uma empresa fictícia de serviços de assinatura deseja com
 ***
 
 ## 🛠️ Ferramentas e Métodos Utilizados
-- Microsoft Excel (fórmulas, tabelas dinâmicas, gráficos)
-- ETL
-- Análise dos dados
-- Businnes Intelligence
+- Microsoft Excel (fórmulas, tabelas dinâmicas, gráficos, slicers)
+- Tratamento dos dados (formatação, engenharia de atributos)
+- Business Intelligence
 
 ***
 
@@ -89,7 +88,8 @@ Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram,
 Avaliação geral positiva. As principais queixas envolvem:
 - Falta de itens
 - Atrasos na entrega
-- Embalagens danificadas ou defeitos nos produtos
+- Embalagens danificadas
+- Suporte ruim
 
 ***
 
