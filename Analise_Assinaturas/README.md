@@ -1,5 +1,9 @@
-<h1 align="center">Business Case - Dashboard Comercial</h1>
-![0000000001](https://github.com/user-attachments/assets/4ffc240d-b6c5-4b69-87a3-9533ec6a350c)
+<h1 align="center">Análise de Vendas de Serviços de Assinatura</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ffc240d-b6c5-4b69-87a3-9533ec6a350c" alt="analise_vendas" width="600"/>
+</p>
+
 
 ## Contexto
 
