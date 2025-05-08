@@ -79,22 +79,26 @@ Representa o ticket médio do cliente. A nota é atribuída com base em percenti
 
 #### 📌 1. Qual a recência?
 A maioria dos clientes obteve **nota 5 em recência**, ou seja, realizaram uma compra nos últimos 30 dias. Esse é um forte indicativo de **engajamento recente com a empresa**.
+![image](https://github.com/user-attachments/assets/c8e47fd9-4140-4973-a050-b2bcaa9e1994)
 
 <br>
 
 #### 📌 2. Qual a frequência?
 A distribuição foi concentrada entre as **notas 5 e 4**, revelando um bom volume de clientes que **compram com regularidade**.
+![image](https://github.com/user-attachments/assets/894b6049-1330-435e-ad5b-e6bb3fca1c42)
 
 <br>
 
 #### 📌 3. Qual o valor?
 O ticket médio dos clientes ficou concentrado entre as **notas 3 e 4, com uma boa proporção também na nota 5**. Isso indica um perfil de **gasto moderado, com margem para crescimento**.
+![image](https://github.com/user-attachments/assets/aaf8090a-1913-4977-8cfe-b657e00a300c)
 
 <br>
 
 #### 📌 4. Qual o RFV geral da empresa?  
 4. Qual o RFV geral da empresa?
 A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que **muitos clientes são recentes**, **compram com frequência** e têm **valor médio de compra razoável**. Podemos considerar esses perfil como muito valioso para a empresa, com **alto potencial de fidelização**.
+![image](https://github.com/user-attachments/assets/a1fda234-173e-4ac4-a2f0-4cdf664fcbaa)
 
 ***
 
@@ -102,11 +106,20 @@ A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que 
 Com base nas pontuações obtidas, é possível definir estratégias direcionadas para os diferentes perfis de clientes:
 
 **🟧 Baixa recência:** Cliente hibernando ou quase perdido, estão inativos há muito tempo.
-**🟩 Estratégia:** Reativação com campanhas sazonais, e-mails personalizados e promoções exclusivas.
+**🟩 Ações:** Reativação com campanhas sazonais, e-mails personalizados e promoções exclusivas.
 
-* **Baixa frequência:** Clientes com pouca frequência, mas alta ou média recência, pode indicar que são novos. São clientes promissores, é importante construir um relacionamento com eles, aplicando ofertas e descontos especiais.
+--
 
-* **Baixo valor:** Na nossa análise, percebemos muitos clientes com notas em valor entre 3 e 4, mesmo contando com alta frequência e recência. Isso pode ocorrer se os produtos adquiridos têm menor preço, por exemplo. É importante incentivar esses clientes com promoções especiais, buscando aumentar seu ticket médio.
+**🟧 Baixa frequência:** Contamos com alta recência, a baixa frequência pode indicar pouca regularidade nas compras.
+**🟩 Ações:** Nutrir o relacionamento com ofertas de produtos complementares, campanhas de pontos que geram desconto com prazo de validade, buscando manter a frequência de compras desses clientes.
 
-* **Alto RFV:** Clientes com alta recência, frequência e valor são fiéis e é importante mantê-los. Uma boa forma de fazer isso é aplicando programas de fidelidade, recompensas/pontos e mesmo premiações para estes, o que vai fortalecer seu laço e fidelidade com a empresa. Um programa de recomendação também pode funcionar muito bem, pois estaremos influenciando nossos melhores clientes a indicar nossos produtos/serviços a pessoas com perfil próximo ao deles, o que pode gerar mais clientes promissores.
+--
+
+**🟧 Baixo valor:** Percebemos, em nossa análise, baixo valor (muitas notas entre 3 e 4) mesmo com alta frequência e recência. 
+**🟩 Ações:** Incentivar compras de maior valor com combos, frete grátis acima de certo valor ou upselling, a fim de aumentar o ticket médio desse perfil.
+
+--
+**🟧 Alto RFV:** Clientes que são frequentes, recentes e têm alto valor. Atualmente representam 
+
+Clientes com alta recência, frequência e valor são fiéis e é importante mantê-los. Uma boa forma de fazer isso é aplicando programas de fidelidade, recompensas/pontos e mesmo premiações para estes, o que vai fortalecer seu laço e fidelidade com a empresa. Um programa de recomendação também pode funcionar muito bem, pois estaremos influenciando nossos melhores clientes a indicar nossos produtos/serviços a pessoas com perfil próximo ao deles, o que pode gerar mais clientes promissores.
 
