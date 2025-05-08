@@ -6,7 +6,8 @@
 
 <br>
 
- ### Análise de dados no Excel, contando com:
+ ## Análise de dados no Excel, contando com:
+ 
  * ### 🛠 Tratamento e análise de dados
  * ### 📊 Dashboards interativos
  * ### 📑 Documentação das análises
