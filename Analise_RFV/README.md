@@ -101,9 +101,9 @@ A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que 
 ### 3. 📈 Recomendações Estratégicas
 Com base nas pontuações obtidas, é possível definir estratégias direcionadas para os diferentes perfis de clientes:
 
-** 🟧 Baixa recência:** Cliente hibernando ou quase perdido, estão inativos há muito tempo.
+**🟧 Baixa recência:** Cliente hibernando ou quase perdido, estão inativos há muito tempo.
 
-** 🟩 Estratégia:** Reativação com campanhas sazonais, e-mails personalizados e promoções exclusivas.
+**🟩 Estratégia:** Reativação com campanhas sazonais, e-mails personalizados e promoções exclusivas.
 
 * **Baixa frequência:** Clientes com pouca frequência, mas alta ou média recência, pode indicar que são novos. São clientes promissores, é importante construir um relacionamento com eles, aplicando ofertas e descontos especiais.
 
