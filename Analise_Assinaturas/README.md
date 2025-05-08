@@ -27,7 +27,7 @@ A análise busca, além de diagnosticar o desempenho mensal da empresa, identifi
 ***
 
 ## 🧱 Estrutura do Projeto
-### 🗄 1. Banco de Dados
+### 🗄 Banco de Dados
 
 | Coluna           | Descrição |
 |------------------|-----------|
@@ -46,7 +46,7 @@ A análise busca, além de diagnosticar o desempenho mensal da empresa, identifi
 
 ***
 
-### 📍 2. Respondendo às perguntas de negócio
+### 📍 Respondendo às perguntas de negócio
 
 #### 📌 1. Qual foi o faturamento do mês?  
 O faturamento foi de **R$26.467,80**. Mantido esse ritmo, o ano pode fechar com aproximadamente **R$300.000**.
@@ -93,7 +93,7 @@ Avaliação geral positiva. As principais queixas envolvem:
 
 ***
 
-### 3. 📈 Recomendações Estratégicas
+### 📈 Recomendações Estratégicas
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
 #### 🟩 Relativas ao faturamento:
@@ -110,7 +110,7 @@ De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
 ***
 
-### 4. 🚀 Impacto Esperado
+### 🚀 Impacto Esperado
 
 
 ---
