@@ -72,16 +72,16 @@ O produto que conta com mais assinantes é o **Magic Box, 35% do total de assina
 #### 📌 3. Qual o perfil dos clientes?**  
 Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram, a maior parte deles é do **Rio Grande do Sul (51%)**, seguido do **Paraná (27%)** e **Santa Catarina (22%)**. De acordo com o gênero e faixa etária, a maior parte dos nosso clientes é do **sexo masculino**. A faixa etária predominante é de **35-44 e 54-70, para ambos os sexos**.
 
-*Total de assinantes:* 802
+**Total de assinantes:** 802
 
-*Distribuição geográfica:*
+**Distribuição geográfica:**
 - Rio Grande do Sul – 51%
 - Paraná – 27%
 - Santa Catarina – 22%
 
-*Gênero predominante:* Masculino
+**Gênero predominante:** Masculino
 
-*Faixas etárias predominante:* 35–44 e 54–70 (ambos os sexos)
+**Faixas etárias predominante:** 35–44 e 54–70 (ambos os sexos)
 
 <br>
 
@@ -93,7 +93,7 @@ Avaliação geral positiva. As principais queixas envolvem:
 
 ***
 
-### 3. 📈 Como melhorar nosso faturamento e atendimento?
+### 3. 📈 Recomendações Estratégicas
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
 **Relativas ao faturamento**
