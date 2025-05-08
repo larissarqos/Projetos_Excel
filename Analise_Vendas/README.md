@@ -81,9 +81,9 @@ As vendas foram bem distribuídas entre os produtos. Porém, em termos de fatura
 | Camisa Linho     | 144          | 446        | R$133.532,40     | 28,92%         |
 | **Total**        | **759**      | **2.308**  | **R$461.743,30** | **100%**       |
 
-***
+<br>
 
-** 📌 4. As lojas atingiram a meta mensal de R$7.000,00? **  
+#### 📌 4. As lojas atingiram a meta mensal de R$7.000,00? **  
 Com base no faturamento médio mensal por loja (faturamento total ÷ 12), apenas **3 das 5 filiais** alcançaram ou superaram a meta: **Leblon, Ipanema e Botafogo**.
 
 **Resumo por loja:**
