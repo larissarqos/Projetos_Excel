@@ -1,4 +1,8 @@
-<h1 align="center">Business Case - Análise RFV Para Setor de Vendas</h1>
+<h1 align="center">📊 Análise RFV - Setor de Vendas</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e8f0bb9-14e9-4fe7-a21d-5bc5b8616b20" alt="analise_vendas" width="1100" height="330"/>
+</p>
 
 ## Contexto
 Uma empresa fictícia busca entender melhor o comportamento de compra de seus clientes para melhorar suas vendas e estratégia das campanhas de marketing. Para isso, desejam analisar o último ano de vendas, considerando o valor gasto por seus clientes e a frequência de compras.
