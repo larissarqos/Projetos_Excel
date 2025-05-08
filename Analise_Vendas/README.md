@@ -127,7 +127,7 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
 
 <br>
 
-### 4. 🚀 Impacto Esperado
+### 🚀 Impacto Esperado
 A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aumento de faturamento quanto na eficiência operacional da rede de lojas. Com base nos dados de 2024, os seguintes resultados são projetados:
 
 #### 🟩 Campanhas em lojas com desempenho abaixo da meta
