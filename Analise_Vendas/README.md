@@ -104,16 +104,16 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
 - **Campanhas promocionais focadas nas lojas com menor desempenho**  
   Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
   
-#### 🟦 Ações por produto
+#### 🟩 Ações por produto
 - **Aproveitar o potencial dos produtos mais lucrativos**  
   Campanhas de marketing direcionadas para os best-sellers (como Camisa Linho e Oxford) podem alavancar ainda mais o faturamento.
 
-#### 🟪 Ações por perfil de cliente**
+#### 🟩 Ações por perfil de cliente**
 - **Fidelizar clientes**
   Entender os picos de vendas e oferecer benefícios para clientes recorrentes pode aumentar a retenção.
   Lançar programas de fidelização e indicação, a fim manter nossos cliente fiéis e obter clientes de perfil semelhante a estes.
 
-#### 🟧 Acompanhamento contínuo
+#### 🟩 Acompanhamento contínuo
 - **Monitoramento mensal por loja e produto**  
   Relatórios visuais e metas ajustadas com base no desempenho sazonal ajudam na tomada de decisão mais rápida e eficiente.
   
