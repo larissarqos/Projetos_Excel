@@ -4,16 +4,21 @@
   <img src="https://github.com/user-attachments/assets/6e8f0bb9-14e9-4fe7-a21d-5bc5b8616b20" alt="analise_vendas" width="1100" height="330"/>
 </p>
 
-## Contexto
-Uma empresa fictícia busca entender melhor o comportamento de compra de seus clientes para melhorar suas vendas e estratégia das campanhas de marketing. Para isso, desejam analisar o último ano de vendas, considerando o valor gasto por seus clientes e a frequência de compras.
+## 📃 Contexto
+Uma empresa fictícia busca entender melhor o comportamento de compra de seus clientes com o objetivo de otimizar estratégias de vendas e campanhas de marketing. Para isso, será realizada uma análise das vendas do último ano, considerando três fatores principais: valor gasto, frequência de compra e tempo desde a última compra.
 
-## Objetivos
-Para atender à demanda da empresa, aplicaremos a análise de RFV (Recência, Frequência e Valor), aplicando 1 como pior nota e 5 para melhor nota em cada um dos fatores da análise.
+## 🎯 Objetivos
+Aplicaremos a análise RFV (Recência, Frequência e Valor), atribuindo notas de 1 (pior) a 5 (melhor) em cada fator, para responder às seguintes perguntas de negócio:
 
-* Qual a recência?
-* Qual a  frequência?
-* Qual o valor? 
-* Qual o RFV geral da empresa?
+Qual a recência dos clientes?
+
+Qual a frequência de compras?
+
+Qual o valor médio gasto?
+
+Qual o RFV geral da base de clientes?
+
+
 
 ## Estrutura do Projeto
 ### 1. Banco de dados
