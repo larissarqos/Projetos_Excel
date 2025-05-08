@@ -38,7 +38,7 @@ Os resultados obtidos após a análise nos farão entender o comportamento de no
 
 ***
 
-### 📐Métricas utilizadas
+### 📐 Métricas utilizadas
 Métricas utilizadas ao estabelecer a recência, frequência e valor.
 
 #### 🔸 Recência
@@ -52,7 +52,7 @@ Reflete o tempo desde a última compra. Quanto mais recente, maior a nota
 | 2  | 180 |
 | 1  | 365 |  
 
-#### 🔸Frequência
+#### 🔸 Frequência
 Número de compras realizadas no período. Quanto mais frequente, maior a nota. Os valores atribuídos para cada nota levaram em consideração a frequência de compra dos clientes na base de dados.
   
 | Frequência  | Ao menos (quantidade de pedidos) |
@@ -94,7 +94,7 @@ O ticket médio dos clientes ficou concentrado entre as **notas 3 e 4, com uma b
 
 #### 📌 4. Qual o RFV geral da empresa?  
 4. Qual o RFV geral da empresa?
-A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que muitos clientes são recentes, compram com frequência e têm valor médio de compra razoável. Podemos considerar esses perfil como muito valioso para a empresa, com alto potencial de fidelização.
+A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que **muitos clientes são recentes**, **compram com frequência** e têm **valor médio de compra razoável**. Podemos considerar esses perfil como muito valioso para a empresa, com **alto potencial de fidelização**.
 
 ***
 
