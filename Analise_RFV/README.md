@@ -117,6 +117,7 @@ O ticket médio dos clientes ficou concentrado entre as **notas 3 e 4, com uma b
 #### 📌 4. Qual o RFV geral da empresa?  
 4. Qual o RFV geral da empresa?
 A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que **muitos clientes são recentes**, **compram com frequência** e têm **valor médio de compra razoável**. Podemos considerar esses perfil como muito valioso para a empresa, com **alto potencial de fidelização**. Abaixo distribuição das notas:
+
 | Nota  | Distribuição | % do Total |
 |:-----:|:------------:|-----------:|
 | 15 | 626 | % |
@@ -131,6 +132,7 @@ A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que 
 |  6 |  54 | % | 
 |  5 |  54 | % |
 |  4 |  54 | % |
+
 ***
 
 ### 3. 📈 Recomendações Estratégicas
