@@ -97,16 +97,16 @@ Avaliação geral positiva. As principais queixas envolvem:
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
 #### 🟩 Relativas ao faturamento:
-* Oferecer upgrades de planos: Incentivar migração para planos como o Premium X, destacando seus diferenciais.
+* **Oferecer upgrades de planos:** Incentivar migração para planos como o Premium X, destacando seus diferenciais.
 
-* Expandir presença no PR e SC: Campanhas regionais, sistema de indicação e promoções específicas para atrair novos clientes.
+* **Expandir presença no PR e SC:** Campanhas regionais, sistema de indicação e promoções específicas para atrair novos clientes.
 
-* Investir nos perfis com maior adesão: Público 35–44 e 54-70 anos, de ambos os sexos. Coletar feedbacks desse grupo pode guiar campanhas mais assertivas.
+* **Investir nos perfis com maior adesão:** Público 35–44 e 54-70 anos, de ambos os sexos. Coletar feedbacks desse grupo pode guiar campanhas mais assertivas.
 
 #### 🟩 Relativas ao tendimento:
-* Revisar processos de entrega: Garantir testes de qualidade, verificação de itens e avaliar performance da transportadora.
+* **Revisar processos de entrega:** Garantir testes de qualidade, verificação de itens e avaliar performance da transportadora.
 
-* Aprimorar o suporte ao cliente: Avaliar tempo e eficácia nas respostas, oferecer soluções que gerem satisfação (ex: descontos, trocas ágeis de danificados).
+* **Aprimorar o suporte ao cliente:** Avaliar tempo e eficácia nas respostas, oferecer soluções que gerem satisfação (ex: descontos, trocas ágeis de danificados).
 
 ---
 
