@@ -108,7 +108,7 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
 - **Aproveitar o potencial dos produtos mais lucrativos**  
   Campanhas de marketing direcionadas para os best-sellers (como Camisa Linho e Oxford) podem alavancar ainda mais o faturamento.
 
-#### 🟩 Ações por perfil de cliente**
+#### 🟩 Ações por perfil de cliente
 - **Fidelizar clientes**
   Entender os picos de vendas e oferecer benefícios para clientes recorrentes pode aumentar a retenção.
   Lançar programas de fidelização e indicação, a fim manter nossos cliente fiéis e obter clientes de perfil semelhante a estes.
