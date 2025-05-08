@@ -133,11 +133,12 @@ A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aum
 #### 🟩 Campanhas em lojas com desempenho abaixo da meta
 - **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio das lojas que superaram a meta (R$8.119,67/mês), o ganho potencial anual é de R$32.000 a R$60.000.
 - **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
-
+- *Cálculo da projeção:*
+  
 #### 🟩 Campanhas em lojas com desempenho abaixo da meta
 - **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio das lojas que superaram a meta (R$8.119,67/mês), o ganho potencial anual é de R$32.000 a R$60.000.
 - **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
-
+- *Cálculo da projeção:*
 
 ***
 *Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
