@@ -61,7 +61,7 @@ A análise busca, além de diagnosticar o desempenho mensal da empresa, identifi
 #### 📌 1. Qual foi o faturamento do mês?  
 O faturamento foi de **R$26.467,80**. Mantido esse ritmo, o ano pode fechar com aproximadamente **R$300.000**.
 
-<br>
+--
   
 #### 📌 2. Que serviço é o mais adquirido?**  
 O produto que conta com mais assinantes é o **Magic Box, 35% do total de assinaturas**. Consideremos o total de assinaturas por serviço e seus respectivos impactos no faturamento:
@@ -76,7 +76,7 @@ O produto que conta com mais assinantes é o **Magic Box, 35% do total de assina
 
 **Insight:** Serviços de menor valor concentram a maior parte das assinaturas, mas têm menor peso no faturamento. Notamos que, apesar de contar com o maior número de assinaturas, Magic Box é o produto com menor impacto no faturamento.
 
-<br>
+--
 
 #### 📌 3. Qual o perfil dos clientes?**  
 Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram, a maior parte deles é do **Rio Grande do Sul (51%)**, seguido do **Paraná (27%)** e **Santa Catarina (22%)**. De acordo com o gênero e faixa etária, a maior parte dos nosso clientes é do **sexo masculino**. A faixa etária predominante é de **35-44 e 54-70, para ambos os sexos**.
@@ -92,7 +92,7 @@ Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram,
 
 **Faixas etárias predominante:** 35–44 e 54–70 (ambos os sexos)
 
-<br>
+--
 
 #### 📌 4. Qual a avaliação dos serviços?
 Avaliação geral positiva. As principais queixas envolvem:
@@ -114,6 +114,8 @@ De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 * **Expandir presença no PR e SC:** Campanhas regionais, sistema de indicação e promoções específicas para atrair novos clientes.
 
 * **Investir nos perfis com maior adesão:** Público 35–44 e 54-70 anos, de ambos os sexos. Coletar feedbacks desse grupo pode guiar campanhas mais assertivas.
+
+--
 
 #### 🟩 Relativas ao tendimento:
 * **Revisar processos de entrega:** Garantir testes de qualidade, verificação de itens e avaliar performance da transportadora.
