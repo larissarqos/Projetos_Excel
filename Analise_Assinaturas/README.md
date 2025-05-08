@@ -27,7 +27,7 @@ A análise busca, além de diagnosticar o desempenho mensal da empresa, identifi
 ***
 
 ## 🧱 Estrutura do Projeto
-### 1. Banco de Dados
+### 🗄 1. Banco de Dados
 
 | Coluna           | Descrição |
 |------------------|-----------|
@@ -107,6 +107,11 @@ De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 * **Revisar processos de entrega:** Garantir testes de qualidade, verificação de itens e avaliar performance da transportadora.
 
 * **Aprimorar o suporte ao cliente:** Avaliar tempo e eficácia nas respostas, oferecer soluções que gerem satisfação (ex: descontos, trocas ágeis de danificados).
+
+***
+
+### 4. 🚀 Impacto Esperado
+
 
 ---
 
