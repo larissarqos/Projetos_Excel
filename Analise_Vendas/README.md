@@ -78,7 +78,7 @@ Em 2024, foram registradas **759 vendas**, totalizando **2.308 itens**. As filia
 As vendas foram bem distribuídas entre os produtos. Porém, em termos de faturamento, os destaques foram **Camisa Linho**, **Oxford** e **Joa**, que juntas representaram mais de **70% do faturamento**.
 
 | Produto         | Nº de Vendas | Quantidade | Faturamento      | % do Total     |
-|------------------|--------------|------------|------------------|----------------|
+|-----------------|--------------|------------|------------------|----------------|
 | Camisa Oxford    | 158          | 480        | R$100.464,00     | 21,75%         |
 | Camiseta Navy    | 157          | 479        | R$80.136,70      | 17,36%         |
 | Camiseta Joa     | 151          | 480        | R$97.104,00      | 21,03%         |
@@ -139,7 +139,8 @@ A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aum
 - **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio das lojas que superaram a meta (R$8.119,67/mês), o ganho potencial anual é de R$32.000 a R$60.000.
 - **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
 
-|*Cálculo da projeção*| *Blablablabla bla blabla blab blalblalablalvlalbla*|
+|*Cálculo da projeção*| *Blablablabla bla blabla blab blalblalablalvlalbla* |
+|---------------------|-----------------------------------------------------|
 
 ***
 
