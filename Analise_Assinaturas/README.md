@@ -65,7 +65,7 @@ O produto que conta com mais assinantes é o **Magic Box, 35% do total de assina
 | Safe Watch  | R$29,90             | 232                   | R$6.936,80      |
 | **Total**   | --                  | **802**               | **R$26.467,80** |
 
-*Insight: Serviços de menor valor concentram a maior parte das assinaturas, mas têm menor peso no faturamento. Notamos que, apesar de contar com o maior número de assinaturas, Magic Box é o produto com menor impacto no faturamento.*
+**Insight:** Serviços de menor valor concentram a maior parte das assinaturas, mas têm menor peso no faturamento. Notamos que, apesar de contar com o maior número de assinaturas, Magic Box é o produto com menor impacto no faturamento.
 
 <br>
 
@@ -95,6 +95,22 @@ Avaliação geral positiva. As principais queixas envolvem:
 
 ### 3. 📈 Recomendações Estratégicas
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
+
+💼 Para Aumentar o Faturamento:
+Oferecer upgrades de planos: Incentivar migração para planos como o Premium X, destacando seus diferenciais.
+
+Expandir presença no PR e SC:
+Campanhas regionais, sistema de indicação e promoções específicas para atrair novos clientes.
+
+Investir nos perfis com maior adesão:
+Público 35–70 anos, de ambos os sexos, é a maioria. Coletar feedbacks desse grupo pode guiar campanhas mais assertivas.
+
+🤝 Para Melhorar o Atendimento:
+Revisar processos de entrega:
+Garantir testes de qualidade, verificação de itens e avaliar performance da transportadora.
+
+Aprimorar o suporte ao cliente:
+Avaliar tempo e eficácia nas respostas, oferecer soluções que gerem satisfação (ex: descontos, trocas ágeis).
 
 **Relativas ao faturamento**
 
