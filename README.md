@@ -1,2 +1,8 @@
-# Projetos_Excel
- Tratamento e análise de dados no Excel, com documentação das análises e sugestões de solução para os problemas de negócio.
+## Projetos de Análise de Dados com Excel
+
+ ### Análise de dados no Excel, contando com:
+ * #### 🛠 Tratamento e análise de dados
+ * #### 📊 Dashboards interativos
+ * #### 📑 Documentação das análises
+ * #### 📈 Sugestões estratégicas para os problemas de negócio encontrados
+ * #### 🚀 Impacto esperado se adotadas as sugestões
