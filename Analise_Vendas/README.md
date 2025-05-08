@@ -24,7 +24,7 @@ Para atender à demanda da empresa, realizamos uma análise exploratória das ve
 - Qual foi o faturamento de 2024?   
 - Quais lojas mais se destacaram em vendas?  
 - Quais foram os produtos mais vendidos?  
-- As lojas atingiram a meta mensal estabelecida?
+- As lojas atingiram a meta mensal estabelecida de R$7.000,00?
 
 Com base nessas perguntas, conseguimos avaliar o desempenho por loja, produto e mês — oferecendo à empresa uma visão clara sobre os pontos fortes e oportunidades de melhoria.
 
@@ -50,7 +50,7 @@ Com base nessas perguntas, conseguimos avaliar o desempenho por loja, produto e 
 #### 📌 1. Qual foi o faturamento de 2024?  
 O faturamento total do ano foi de **R$461.743,30**. As lojas do **Leblon** e de **Ipanema** lideraram as vendas, responsáveis por **28%** e **21,8%** do total, respectivamente.
 
-| Loja     | Faturamento     | Participação no total |
+| Loja     | Faturamento      | Participação no total  |
 |----------|------------------|------------------------|
 | Leblon   | R$129.020,00     | 28%                    |
 | Ipanema  | R$100.448,64     | 21,8%                  |
@@ -61,12 +61,15 @@ O faturamento total do ano foi de **R$461.743,30**. As lojas do **Leblon** e de 
 
 <br>
 
-#### 📌 2. Quais lojas mais venderam?  
+#### 📌 2. Quais lojas mais se destacaram em vendas?  
 Em 2024, foram registradas **759 vendas**, totalizando **2.308 itens**. As filiais do **Leblon** e de **Ipanema** lideraram tanto em número de vendas quanto em faturamento.
+![image](https://github.com/user-attachments/assets/e4b8dc8e-2557-4100-9fee-3ad14915f575)
+![Uploading image.png…]()
+
 
 <br>
 
-#### 📌 3. Quais os produtos mais vendidos?  
+#### 📌 3. Quais foram os produtos mais vendidos?  
 As vendas foram bem distribuídas entre os produtos. Porém, em termos de faturamento, os destaques foram **Camisa Linho**, **Oxford** e **Joa**, que juntas representaram mais de **70% do faturamento**.
 
 | Produto         | Nº de Vendas | Quantidade | Faturamento      | % do Total     |
@@ -80,7 +83,7 @@ As vendas foram bem distribuídas entre os produtos. Porém, em termos de fatura
 
 <br>
 
-#### 📌 4. As lojas atingiram a meta mensal de R$7.000,00? **  
+#### 📌 4. As lojas atingiram a meta mensal estabelecida de R$7.000,00? **  
 Com base no faturamento médio mensal por loja (faturamento total ÷ 12), apenas **3 das 5 filiais** alcançaram ou superaram a meta: **Leblon, Ipanema e Botafogo**.
 
 **Resumo por loja:**
