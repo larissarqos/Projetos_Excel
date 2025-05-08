@@ -63,9 +63,6 @@ O faturamento total do ano foi de **R$461.743,30**. As lojas do **Leblon** e de 
 
 #### 📌 2. Quais lojas mais se destacaram em vendas?  
 Em 2024, foram registradas **759 vendas**, totalizando **2.308 itens**. As filiais do **Leblon** e de **Ipanema** lideraram tanto em número de vendas quanto em faturamento.
-![image](https://github.com/user-attachments/assets/e4b8dc8e-2557-4100-9fee-3ad14915f575)
-![Uploading image.png…]()
-
 
 <br>
 
