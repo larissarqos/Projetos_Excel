@@ -11,12 +11,9 @@ O setor comercial de uma rede fictícia de lojas de roupas deseja avaliar o dese
 ***
 
 ## 🛠️ Ferramentas e Métodos Utilizados
-- Microsoft Excel
+- Microsoft Excel (fórmulas, tabelas dinâmicas, gráficos)
 - ETL
 - Análise dos dados
-- Slicer
-- Tabelas dinâmicas
-- Gráficos
 - Businnes Intelligence
   
 ***
