@@ -9,7 +9,7 @@ Uma empresa fictícia busca entender melhor o comportamento de compra de seus cl
 
 ***
 
-🛠️ Ferramentas e Métodos Utilizados
+## 🛠️ Ferramentas e Métodos Utilizados
 * Microsoft Excel (fórmulas, tabelas dinâmicas, gráficos, slicers)
 * Limpeza e tramento dos dados
 * Engenharia de atributos
