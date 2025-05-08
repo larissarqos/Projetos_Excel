@@ -1,9 +1,8 @@
 <h1 align="center">Análise de Vendas - Serviços de Assinatura</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5b6f5121-29b6-464e-b5fa-84b17d725e16" alt="analise_vendas" width="600" height="350"/>
+  <img src="https://github.com/user-attachments/assets/0d5ae224-48f0-4bcc-a251-b0a4d9a54585" alt="analise_vendas" width="600" height="350"/>
 </p>
-
 
 ## 📃 Contexto
 A área comercial de uma empresa fictícia de serviços de assinatura deseja compreender seu desempenho no mês. Os objetivos incluem entender os principais fatores que impactam o faturamento e a percepção dos clientes sobre produtos e atendimento, a fim de orientar melhorias estratégicas no setor comercial.
