@@ -110,17 +110,17 @@ Com base no faturamento médio mensal por loja (faturamento total ÷ 12), apenas
 ### 📈 Recomendações Estratégicas
 Com base na análise dos dados e padrões identificados, algumas ações podem ser adotadas:
 
-#### 🟩 Ações por loja
+#### 🟦 Ações por loja
 - **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
   
-#### 🟩 Ações por produto
+#### 🟦 Ações por produto
 - **Aproveitar o potencial dos produtos mais lucrativos:** Campanhas de marketing direcionadas para os best-sellers (como Camisa Linho e Oxford) podem alavancar ainda mais o faturamento.
 
-#### 🟩 Ações por perfil de cliente
+#### 🟦 Ações por perfil de cliente
 - **Fidelizar clientes:** Entender os picos de vendas e oferecer benefícios para clientes recorrentes pode aumentar a retenção.
   Lançar programas de fidelização e indicação, a fim manter nossos cliente fiéis e obter clientes de perfil semelhante a estes.
 
-#### 🟩 Acompanhamento contínuo
+#### 🟦 Acompanhamento contínuo
 - **Monitoramento mensal por loja e produto:** Relatórios visuais e metas ajustadas com base no desempenho sazonal ajudam na tomada de decisão mais rápida e eficiente.
   
 ***
@@ -130,12 +130,15 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
 ### 4. 🚀 Impacto Esperado
 A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aumento de faturamento quanto na eficiência operacional da rede de lojas. Com base nos dados de 2024, os seguintes resultados são projetados:
 
-#### 🔵 Campanhas em lojas com desempenho abaixo da meta
+#### 🟩 Campanhas em lojas com desempenho abaixo da meta
 - **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio das lojas que superaram a meta (R$8.119,67/mês), o ganho potencial anual é de R$32.000 a R$60.000.
-
 - **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
 
+--
 
+#### 🟩 Campanhas em lojas com desempenho abaixo da meta
+- **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio das lojas que superaram a meta (R$8.119,67/mês), o ganho potencial anual é de R$32.000 a R$60.000.
+- **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
 
 
 ***
