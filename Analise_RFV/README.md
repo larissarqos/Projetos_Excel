@@ -98,7 +98,7 @@ A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que 
 
 ***
 
-### 3. Como prosseguir com meus clientes, de acordo com a análise RFV?
+### 3. Recomendações Estratégicas
 Há uma série de medidas que podemos adotar, conforme notas dos clientes nos diferentes fatores da análise (recência, frequência e valor), tais como:
 
 * **Baixa recência:** É um cliente hibernando ou quase perdido, pois uma baixa recência indica muito tempo desde a última compra. É importante trazê-lo de volta através de promoções, ofertas relâmpago ou campanhas de reativação.
