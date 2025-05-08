@@ -9,12 +9,16 @@ A área comercial de uma empresa fictícia de serviços de assinatura deseja com
 
 ***
 
+<br>
+
 ## 🛠️ Ferramentas e Métodos Utilizados
 - Microsoft Excel (fórmulas, tabelas dinâmicas, gráficos, slicers)
 - Tratamento dos dados (formatação, engenharia de atributos)
 - Business Intelligence
 
 ***
+
+<br>
 
 ## 🎯 Objetivos
 A análise busca, além de diagnosticar o desempenho mensal da empresa, identificar oportunidades para aumentar o faturamento e a satisfação dos clientes. As perguntas que guiarão nossa análise são:
@@ -25,6 +29,8 @@ A análise busca, além de diagnosticar o desempenho mensal da empresa, identifi
 - Qual a avaliação dos serviços?
   
 ***
+
+<br>
 
 ## 🧱 Estrutura do Projeto
 ### 🗄 Banco de Dados
@@ -45,6 +51,8 @@ A análise busca, além de diagnosticar o desempenho mensal da empresa, identifi
 | Mensalidade      | Valor mensal do serviço                                       |
 
 ***
+
+<br>
 
 ### 📍 Respondendo às perguntas de negócio
 
@@ -93,6 +101,8 @@ Avaliação geral positiva. As principais queixas envolvem:
 
 ***
 
+<br>
+
 ### 📈 Recomendações Estratégicas
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
@@ -109,6 +119,8 @@ De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 * **Aprimorar o suporte ao cliente:** Avaliar tempo e eficácia nas respostas, oferecer soluções que gerem satisfação (ex: descontos, trocas ágeis de danificados).
 
 ***
+
+<br>
 
 ### 🚀 Impacto Esperado
 
