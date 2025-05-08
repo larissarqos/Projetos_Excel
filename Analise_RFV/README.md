@@ -52,6 +52,8 @@ Reflete o tempo desde a última compra. Quanto mais recente, maior a nota
 | 2  | 180 |
 | 1  | 365 |  
 
+<br>
+
 #### 🔸 Frequência
 Número de compras realizadas no período. Quanto mais frequente, maior a nota. Os valores atribuídos para cada nota levaram em consideração a frequência de compra dos clientes na base de dados.
   
@@ -62,6 +64,8 @@ Número de compras realizadas no período. Quanto mais frequente, maior a nota. 
 | 3  | 8  |
 | 2  | 5  |
 | 1  | 1  |  
+
+<br>
 
 #### 🔸 Valor
 Representa o ticket médio do cliente. A nota é atribuída com base em percentis.
@@ -78,48 +82,79 @@ Representa o ticket médio do cliente. A nota é atribuída com base em percenti
 ### 📍 2. Respondendo às perguntas de negócio
 
 #### 📌 1. Qual a recência?
-A maioria dos clientes obteve **nota 5 em recência**, ou seja, realizaram uma compra nos últimos 30 dias. Esse é um forte indicativo de **engajamento recente com a empresa**.
-![image](https://github.com/user-attachments/assets/c8e47fd9-4140-4973-a050-b2bcaa9e1994)
-
+A maioria dos clientes obteve **nota 5 em recência**, ou seja, realizaram uma compra nos últimos 30 dias. Esse é um forte indicativo de **engajamento recente com a empresa**. Abaixo distribuição das notas:
+| Nota  | Distribuição | % do Total |
+|:-----:|:------------:|-----------:|
+| 5  | 626 | % |
+| 4  | 209 | % |
+| 3  |  93 | % |
+| 2  |  18 | % |
+| 1  |  54 | % | 
 <br>
 
 #### 📌 2. Qual a frequência?
-A distribuição foi concentrada entre as **notas 5 e 4**, revelando um bom volume de clientes que **compram com regularidade**.
-![image](https://github.com/user-attachments/assets/894b6049-1330-435e-ad5b-e6bb3fca1c42)
-
+A distribuição foi concentrada entre as **notas 5 e 4**, revelando um bom volume de clientes que **compram com regularidade**. Abaixo distribuição das notas:
+| Nota  | Distribuição | % do Total |
+|:-----:|:------------:|-----------:|
+| 5  | 626 | % |
+| 4  | 209 | % |
+| 3  |  93 | % |
+| 2  |  18 | % |
+| 1  |  54 | % | 
 <br>
 
 #### 📌 3. Qual o valor?
-O ticket médio dos clientes ficou concentrado entre as **notas 3 e 4, com uma boa proporção também na nota 5**. Isso indica um perfil de **gasto moderado, com margem para crescimento**.
-![image](https://github.com/user-attachments/assets/aaf8090a-1913-4977-8cfe-b657e00a300c)
-
+O ticket médio dos clientes ficou concentrado entre as **notas 3 e 4, com uma boa proporção também na nota 5**. Isso indica um perfil de **gasto moderado, com margem para crescimento**. Abaixo distribuição das notas:
+| Nota  | Distribuição | % do Total |
+|:-----:|:------------:|-----------:|
+| 5  | 626 | % |
+| 4  | 209 | % |
+| 3  |  93 | % |
+| 2  |  18 | % |
+| 1  |  54 | % | 
 <br>
 
 #### 📌 4. Qual o RFV geral da empresa?  
 4. Qual o RFV geral da empresa?
-A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que **muitos clientes são recentes**, **compram com frequência** e têm **valor médio de compra razoável**. Podemos considerar esses perfil como muito valioso para a empresa, com **alto potencial de fidelização**.
-![image](https://github.com/user-attachments/assets/a1fda234-173e-4ac4-a2f0-4cdf664fcbaa)
-
+A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que **muitos clientes são recentes**, **compram com frequência** e têm **valor médio de compra razoável**. Podemos considerar esses perfil como muito valioso para a empresa, com **alto potencial de fidelização**. Abaixo distribuição das notas:
+| Nota  | Distribuição | % do Total |
+|:-----:|:------------:|-----------:|
+| 15 | 626 | % |
+| 14 | 209 | % |
+| 13 |  93 | % |
+| 12 |  18 | % |
+| 11 |  54 | % |
+| 10 | 626 | % |
+|  9 | 209 | % |
+|  8 |  93 | % |
+|  7 |  18 | % |
+|  6 |  54 | % | 
+|  5 |  54 | % |
+|  4 |  54 | % |
 ***
 
 ### 3. 📈 Recomendações Estratégicas
 Com base nas pontuações obtidas, é possível definir estratégias direcionadas para os diferentes perfis de clientes:
 
-**🟧 Baixa recência:** Cliente hibernando ou quase perdido, estão inativos há muito tempo.
+**🟧 Baixa recência:** Cliente hibernando ou quase perdido, estão inativos há muito tempo.  
+
 **🟩 Ações:** Reativação com campanhas sazonais, e-mails personalizados e promoções exclusivas.
 
 --
 
-**🟧 Baixa frequência:** Contamos com alta recência, a baixa frequência pode indicar pouca regularidade nas compras.
+**🟧 Baixa frequência:** Contamos com alta recência, a baixa frequência pode indicar pouca regularidade nas compras.  
+
 **🟩 Ações:** Nutrir o relacionamento com ofertas de produtos complementares, campanhas de pontos que geram desconto com prazo de validade, buscando manter a frequência de compras desses clientes.
 
 --
 
-**🟧 Baixo valor:** Percebemos, em nossa análise, baixo valor (muitas notas entre 3 e 4) mesmo com alta frequência e recência. 
+**🟧 Baixo valor:** Percebemos, em nossa análise, baixo valor (muitas notas entre 3 e 4) mesmo com alta frequência e recência.  
+
 **🟩 Ações:** Incentivar compras de maior valor com combos, frete grátis acima de certo valor ou upselling, a fim de aumentar o ticket médio desse perfil.
 
 --
-**🟧 Alto RFV:** Clientes que são frequentes, recentes e têm alto valor. Atualmente representam 
+**🟧 Alto RFV:** Clientes que são frequentes, recentes e têm alto valor. Atualmente representam  
+
 
 Clientes com alta recência, frequência e valor são fiéis e é importante mantê-los. Uma boa forma de fazer isso é aplicando programas de fidelidade, recompensas/pontos e mesmo premiações para estes, o que vai fortalecer seu laço e fidelidade com a empresa. Um programa de recomendação também pode funcionar muito bem, pois estaremos influenciando nossos melhores clientes a indicar nossos produtos/serviços a pessoas com perfil próximo ao deles, o que pode gerar mais clientes promissores.
 
