@@ -10,7 +10,7 @@ O setor comercial de uma rede fictícia de lojas de roupas deseja avaliar o dese
 
 ***
 
-🛠️ Ferramentas e Métodos Utilizados
+## 🛠️ Ferramentas e Métodos Utilizados
 - Microsoft Excel
 - ETL
 - Análise dos dados
