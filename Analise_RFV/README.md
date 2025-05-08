@@ -9,6 +9,8 @@ Uma empresa fictícia busca entender melhor o comportamento de compra de seus cl
 
 ***
 
+## 
+
 ## 🎯 Objetivos
 Aplicaremos a análise RFV (Recência, Frequência e Valor), atribuindo notas de 1 (pior) a 5 (melhor) em cada fator, para responder às seguintes perguntas:
 
@@ -18,25 +20,6 @@ Aplicaremos a análise RFV (Recência, Frequência e Valor), atribuindo notas de
 * Qual o RFV geral da base de clientes?
 
 Os resultados obtidos após a análise nos farão entender o comportamento de nossos clientes e obter insights sobre que decisões tomar de acordo com o seu perfil.
-
-***
-
-## 🧱 Estrutura do Projeto
-
-### 1. Banco de dados
-
-| Coluna | Descrição |
-|--------|-----------|
-| Cliente       | Código do cliente                                                  |
-| Recencia_Dias | Dias desde a última compra                                         |
-| Ticket_Medio  | Valor médio gasto por pedido (total gasto / quantidade de pedidos) |
-| Pedidos       | Quantidade total de pedidos do cliente                             |
-| Recencia      | Nota de recência atribuída (1 a 5)                                 |
-| Frequencia    | Nota de frequência atribuída (1 a 5)                               |
-| Valor         | Nota de valor atribuída (1 a 5)                                    |
-| RFV           | Soma das três notas anteriores (máximo de 15)                      |
-
-***
 
 ### 📐 Métricas utilizadas
 Métricas utilizadas ao estabelecer a recência, frequência e valor.
@@ -75,7 +58,24 @@ Representa o ticket médio do cliente. A nota é atribuída com base em percenti
 | 4  | 20% | ≥ R$5.742,40 |
 | 3  | 40% | ≥ R$5.168,20 |
 | 2  | 70% | ≥ R$4.485,60 |
-| 1  | 90% | ≥ R$3.839,55 |  
+| 1  | 90% | ≥ R$3.839,55 | 
+
+***
+
+## 🧱 Estrutura do Projeto
+
+### 1. Banco de dados
+
+| Coluna | Descrição |
+|--------|-----------|
+| Cliente       | Código do cliente                                                  |
+| Recencia_Dias | Dias desde a última compra                                         |
+| Ticket_Medio  | Valor médio gasto por pedido (total gasto / quantidade de pedidos) |
+| Pedidos       | Quantidade total de pedidos do cliente                             |
+| Recencia      | Nota de recência atribuída (1 a 5)                                 |
+| Frequencia    | Nota de frequência atribuída (1 a 5)                               |
+| Valor         | Nota de valor atribuída (1 a 5)                                    |
+| RFV           | Soma das três notas anteriores (máximo de 15)                      |
 
 ***
 
