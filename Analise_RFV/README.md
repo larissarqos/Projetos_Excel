@@ -4,10 +4,14 @@
   <img src="https://github.com/user-attachments/assets/6e8f0bb9-14e9-4fe7-a21d-5bc5b8616b20" alt="analise_vendas" width="1100" height="330"/>
 </p>
 
+<br>
+
 ## 📃 Contexto
 Uma empresa fictícia busca entender melhor o comportamento de compra de seus clientes com o objetivo de otimizar estratégias de vendas e campanhas de marketing. Para isso, será realizada uma análise das vendas do último ano, considerando três fatores principais: valor gasto, frequência de compra e tempo desde a última compra.
 
 ***
+
+<br>
 
 ## 🛠️ Ferramentas e Métodos Utilizados
 * Microsoft Excel (fórmulas, tabelas dinâmicas, gráficos, slicers)
@@ -16,6 +20,8 @@ Uma empresa fictícia busca entender melhor o comportamento de compra de seus cl
 * Business Intelligence
 
 ***
+
+<br>
 
 ## 🎯 Objetivos
 Aplicaremos a análise RFV (Recência, Frequência e Valor), atribuindo notas de 1 (pior) a 5 (melhor) em cada fator, para responder às seguintes perguntas:
@@ -28,6 +34,8 @@ Aplicaremos a análise RFV (Recência, Frequência e Valor), atribuindo notas de
 Os resultados obtidos após a análise nos farão entender o comportamento de nossos clientes e obter insights sobre que decisões tomar de acordo com o seu perfil.
 
 ***
+
+<br>
 
 ## 📐 Métricas utilizadas
 Métricas utilizadas ao estabelecer a recência, frequência e valor.
@@ -43,7 +51,7 @@ Reflete o tempo desde a última compra. Quanto mais recente, maior a nota.
 | 2  | 180 |
 | 1  | 365 |  
 
-<br>
+--
 
 #### 🔸 Frequência
 Número de compras realizadas no período. Quanto mais frequente, maior a nota. Os valores atribuídos para cada nota levaram em consideração a frequência de compra dos clientes na base de dados.
@@ -56,7 +64,7 @@ Número de compras realizadas no período. Quanto mais frequente, maior a nota. 
 | 2  | 5  |
 | 1  | 1  |  
 
-<br>
+--
 
 #### 🔸 Valor
 Representa o ticket médio do cliente. A nota é atribuída com base em percentis.
@@ -70,9 +78,11 @@ Representa o ticket médio do cliente. A nota é atribuída com base em percenti
 
 ***
 
+<br>
+
 ## 🧱 Estrutura do Projeto
 
-### 1. Banco de dados
+### 🗄 Banco de dados
 
 | Coluna | Descrição |
 |--------|-----------|
@@ -87,7 +97,9 @@ Representa o ticket médio do cliente. A nota é atribuída com base em percenti
 
 ***
 
-### 📍 2. Respondendo às perguntas de negócio
+<br>
+
+### 📍 Respondendo às perguntas de negócio
 
 #### 📌 1. Qual a recência?
 A maioria dos clientes obteve **nota 5 em recência**, ou seja, realizaram uma compra nos últimos 30 dias. Esse é um forte indicativo de **engajamento recente com a empresa**. Abaixo distribuição das notas:
@@ -99,7 +111,7 @@ A maioria dos clientes obteve **nota 5 em recência**, ou seja, realizaram uma c
 | 2  |  18 |  1,8% |
 | 1  |  54 |  5,4% | 
 
-<br>
+--
 
 #### 📌 2. Qual a frequência?
 A distribuição foi concentrada entre as **notas 5 e 4**, revelando um bom volume de clientes que **compram com regularidade**. Abaixo distribuição das notas:
@@ -111,7 +123,7 @@ A distribuição foi concentrada entre as **notas 5 e 4**, revelando um bom volu
 | 2  |  76 |  7,6% |
 | 1  |   1 |  0,1%   | 
 
-<br>
+--
 
 #### 📌 3. Qual o valor?
 O ticket médio dos clientes ficou concentrado entre as **notas 3 e 4, com uma boa proporção também na nota 5**. Isso indica um perfil de **gasto moderado, com margem para crescimento**. Abaixo distribuição das notas:
@@ -145,7 +157,9 @@ A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que 
 
 ***
 
-### 3. 📈 Recomendações Estratégicas
+<br>
+
+### 📈 Recomendações Estratégicas
 Com base nas pontuações obtidas, é possível definir estratégias direcionadas para os diferentes perfis de clientes:
 
 **🟧 Baixa recência:** Cliente hibernando ou quase perdido, estão inativos há muito tempo.  
@@ -170,5 +184,9 @@ Com base nas pontuações obtidas, é possível definir estratégias direcionada
 **🟩 Ações:** Manter e recompensar — programas de fidelidade, vantagens VIP, campanhas de indicação, recompensas (como condições especiais de pagamento, descontos, brindes), premiações.
 
 ***
+
+<br>
+
+### 🚀 Impacto Esperado
 
 *Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
