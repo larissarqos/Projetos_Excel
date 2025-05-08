@@ -2,7 +2,7 @@
 <h1 align="center"> Análise de Vendas </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/779ac29a-fc13-4357-8dca-14d2e2abb3c7" alt="analise_vendas" width="500"/>
+  <img src="https://github.com/user-attachments/assets/779ac29a-fc13-4357-8dca-14d2e2abb3c7" alt="analise_vendas" width="600"/>
 </p>
 
 ## 📃 Contexto  
