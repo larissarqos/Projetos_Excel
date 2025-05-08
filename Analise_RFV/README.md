@@ -21,7 +21,7 @@ Os resultados obtidos após a análise nos farão entender o comportamento de no
 
 ***
 
-### 📐 Métricas utilizadas
+## 📐 Métricas utilizadas
 Métricas utilizadas ao estabelecer a recência, frequência e valor.
 
 #### 🔸 Recência
@@ -115,7 +115,6 @@ O ticket médio dos clientes ficou concentrado entre as **notas 3 e 4, com uma b
 <br>
 
 #### 📌 4. Qual o RFV geral da empresa?  
-4. Qual o RFV geral da empresa?
 A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que **muitos clientes são recentes**, **compram com frequência** e têm **valor médio de compra razoável**. Podemos considerar esses perfil como muito valioso para a empresa, com **alto potencial de fidelização**. Abaixo distribuição das notas:
 
 | Nota  | Distribuição | % do Total |
@@ -156,7 +155,4 @@ Com base nas pontuações obtidas, é possível definir estratégias direcionada
 
 --
 **🟧 Alto RFV:** Clientes que são frequentes, recentes e têm alto valor. Atualmente representam  
-
-
-Clientes com alta recência, frequência e valor são fiéis e é importante mantê-los. Uma boa forma de fazer isso é aplicando programas de fidelidade, recompensas/pontos e mesmo premiações para estes, o que vai fortalecer seu laço e fidelidade com a empresa. Um programa de recomendação também pode funcionar muito bem, pois estaremos influenciando nossos melhores clientes a indicar nossos produtos/serviços a pessoas com perfil próximo ao deles, o que pode gerar mais clientes promissores.
-
+**🟩 Ações:** Manter e recompensar — programas de fidelidade, vantagens VIP, campanhas de indicação, recompensas (como condições especiais de pagamento, descontos, brindes), premiações.
