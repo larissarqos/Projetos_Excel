@@ -30,7 +30,7 @@ Com base nessas perguntas, conseguimos avaliar o desempenho por loja, produto e 
 
 ## 🧱 Estrutura do Projeto  
 
-### 1. Banco de dados  
+### 1. 🗄 Banco de dados  
 
 | Coluna           | Descrição                                              |
 |------------------|--------------------------------------------------------|
@@ -112,9 +112,12 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
   Lançar programas de fidelização e indicação, a fim manter nossos cliente fiéis e obter clientes de perfil semelhante a estes.
 
 #### 🟩 Acompanhamento contínuo
-- **Monitoramento mensal por loja e produto**  
+- **Monitoramento mensal por loja e produto**
   Relatórios visuais e metas ajustadas com base no desempenho sazonal ajudam na tomada de decisão mais rápida e eficiente.
   
----
+***
 
+### 4. 🚀 Impacto Esperado
+
+***
 *Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
