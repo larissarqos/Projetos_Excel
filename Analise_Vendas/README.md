@@ -46,7 +46,7 @@ Com base nessas perguntas, conseguimos avaliar o desempenho por loja, produto e 
 | Quantidade       | Quantidade vendida                                     |
 | Valor_Total      | Valor total da venda (Quantidade × Valor Unitário)     |
 
----
+--
 
 
 ### 2. 📍 Respondendo às perguntas de negócio
@@ -63,12 +63,12 @@ O faturamento total do ano foi de **R$461.743,30**. As lojas do **Leblon** e de 
 | Tijuca   | R$67.689,58      | 14,6%                  |
 | **Total**| **R$461.743,30** | **100%**               |
 
----
+--
 
 #### 📌 2. Quais lojas mais venderam?  
 Em 2024, foram registradas **759 vendas**, totalizando **2.308 itens**. As filiais do **Leblon** e de **Ipanema** lideraram tanto em número de vendas quanto em faturamento.
 
----
+--
 
 #### 📌 3. Quais os produtos mais vendidos?  
 As vendas foram bem distribuídas entre os produtos. Porém, em termos de faturamento, os destaques foram **Camisa Linho**, **Oxford** e **Joa**, que juntas representaram mais de **70% do faturamento**.
@@ -82,7 +82,7 @@ As vendas foram bem distribuídas entre os produtos. Porém, em termos de fatura
 | Camisa Linho     | 144          | 446        | R$133.532,40     | 28,92%         |
 | **Total**        | **759**      | **2.308**  | **R$461.743,30** | **100%**       |
 
----
+--
 
 ** 📌 4. As lojas atingiram a meta mensal de R$7.000,00? **  
 Com base no faturamento médio mensal por loja (faturamento total ÷ 12), apenas **3 das 5 filiais** alcançaram ou superaram a meta: **Leblon, Ipanema e Botafogo**.
@@ -99,7 +99,7 @@ Com base no faturamento médio mensal por loja (faturamento total ÷ 12), apenas
 
 - **Tijuca** – R$5.610,17/mês: Atingiu ou superou a meta em apenas 5 meses. Início e fim do ano com queda nas vendas.
 
----
+--
 
 ### 3. 📈 Como melhorar os resultados?
 Com base na análise dos dados e padrões identificados, algumas ações estratégicas podem ser adotadas:
