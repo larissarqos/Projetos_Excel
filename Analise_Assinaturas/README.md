@@ -4,49 +4,60 @@
   <img src="https://github.com/user-attachments/assets/0a2cf568-61c5-4222-8bc8-d7ed9b11ad61" alt="analise_vendas" width="500" height="350"/>
 </p>
 
+## 📃 Contexto
+A área comercial de uma empresa fictícia de serviços de assinatura deseja compreender seu desempenho no mês. Os objetivos incluem entender os principais fatores que impactam o faturamento e a percepção dos clientes sobre produtos e atendimento, a fim de orientar melhorias estratégicas no setor comercial.
 
-## Contexto
+***
 
-A área comercial de uma empresa fictícia de serviços de assinatura deseja saber seu desempenho naquele mês. Eles precisam compreender melhor que fatores têm maior impacto em seu faturamento, bem como qual o feedback de seus clientes em relação aos seus produtos e atendimento. Tudo isso servirá de norte para a implementação de melhorias no setor comercial da empresa.
+## 🛠️ Ferramentas e Métodos Utilizados
+- Microsoft Excel (fórmulas, tabelas dinâmicas, gráficos)
+- ETL
+- Análise dos dados
+- Businnes Intelligence
 
-## Objetivos
-O objetivo da análise é, para além descobrir o desempenho da empresa no mês, identificar oportunidades de negócio que levem ao aumento no faturamento da empresa e melhor satisfação dos clientes. Para isso, responderemos às seguintes perguntas:
+***
 
-* Qual o faturamento do mês?
-* Que serviço é o mais adquirido?
-* Qual é o perfil dos nossos clientes? 
-* Qual a avaliação dos nossos serviços?
+## 🎯 Objetivos
+A análise busca, além de diagnosticar o desempenho mensal da empresa, identificar oportunidades para aumentar o faturamento e a satisfação dos clientes. As perguntas que guiarão nossa análise são:
 
-## Estrutura do Projeto
-### 1. Banco de dados
-Possui informações sobre o perfil dos clientes e das assinaturas. Abaixo o dicionário dos dados:
+- Qual foi o faturamento do mês?
+- Que serviço é o mais adquirido?
+- Qual é o perfil dos clientes?
+- Qual a avaliação dos serviços?
+  
+***
 
-| Coluna | Descrição |
-|----------|----------|
-| CPF | CPF do cliente  |
-| Nome   | Nome completo do cliente   |
-| Genero   | Gênero (masculino ou feminino)  |
-| Nivel_Estudos | Formação dos clientes (ensino médio, superior, pós-graduação, mestrado, doutorado)|
-| Interesse/Hobby  | Interesses/Hobbies   |
-| Regiao  | Estado em que mora  |
-| Data_Nasc  | Data de nascimento  |
-| Idade | Idade  |
-| Faixa_Etaria  | Faixa etária a que pertence  |
-| Avaliacao  | Avaliação dos clientes sobre os serviços de assinatura  |
-| Assinatura  | Serviço de assinatura contratado  |
-| Mensalidade  | Valor do serviço de assinatura contratado  |
+## 🧱 Estrutura do Projeto
+### 1. Banco de Dados
+
+| Coluna           | Descrição |
+|------------------|-----------|
+| CPF              | CPF do cliente                                                |
+| Nome             | Nome completo                                                 |
+| Genero           | Gênero (masculino ou feminino)                                |
+| Nivel_Estudos    | Formação (médio, superior, pós-graduação, mestrado, doutorado)|
+| Interesse/Hobby  | Interesses/Hobbies                                            |
+| Regiao           | Estado de residência                                          |
+| Data_Nasc        | Data de nascimento                                            |
+| Idade            | Idade                                                         |
+| Faixa_Etaria     | Faixa etária                                                  |
+| Avaliacao        | Avaliação dada ao serviço                                     |
+| Assinatura       | Tipo de serviço contratado                                    |
+| Mensalidade      | Valor mensal do serviço                                       |
+
+***
+
+### 📍 2. Respondendo às perguntas de negócio
+
+** 📌 1. Qual foi o faturamento do mês?**  
+O faturamento foi de **R$26.467,80**. Mantido esse ritmo, o ano pode fechar com aproximadamente **R$300.000**.
 
 <br>
-
-### 2. Respondendo às perguntas de negócio
-
-**1. Qual o faturamento do mês?**  
-O faturamento do mês foi de **R$26.467,80**. Caso se mantenha na faixa dos R$25.000, fecharemos o ano com um faturamento de aproximadamente R$300.000.
   
-**2. Que serviço é o mais adquirido?**  
-O produto que conta com mais assinantes é o **Magic Box, 35% do total de assinaturas**. Considerando o impacto dos serviços no faturamento, temos:
+** 📌 2. Que serviço é o mais adquirido?**  
+O produto que conta com mais assinantes é o **Magic Box, 35% do total de assinaturas**. Consideremos o total de assinaturas por serviço e seus respectivos impactos no faturamento:
 
-| Serviço     | Valor da Assinatura | Total de Assinaturas | Faturamento     |
+| Serviço     | Valor (R$)          | Total Assinaturas     | Faturamento     |
 |:-----------:|:-------------------:|:---------------------:|:---------------:|
 | Deluxe Box  | R$35,90             | 168                   | R$6.031,20      |
 | Magic Box   | R$9,90              | 266                   | R$2.633,40      |
@@ -54,17 +65,32 @@ O produto que conta com mais assinantes é o **Magic Box, 35% do total de assina
 | Safe Watch  | R$29,90             | 232                   | R$6.936,80      |
 | **Total**   | --                  | **802**               | **R$26.467,80** |
 
-A maioria dos clientes possui nossos serviços mais baratos. Notamos que, apesar de contar com o maior número de assinaturas, Magic Box é o produto com menor impacto no faturamento.
-
-**3. Qual o perfil dos nossos clientes?**  
-Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram, a maior parte deles é do **Rio Grande do Sul (51%)**, seguido do **Paraná (27%)** e **Santa Catarina (22%)**. De acordo com o gênero e faixa etária, a maior parte dos nosso clientes é do **sexo masculino**. A faixa etária predominante é de **35-44 e 54-70, para ambos os sexos**.
-
-**4. Qual a avaliação dos nossos serviços?**  
-De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
+*Insight: Serviços de menor valor concentram a maior parte das assinaturas, mas têm menor peso no faturamento. Notamos que, apesar de contar com o maior número de assinaturas, Magic Box é o produto com menor impacto no faturamento.*
 
 <br>
 
-### 3. Como melhorar nosso faturamento e atendimento?
+** 📌 3. Qual o perfil dos clientes?**  
+Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram, a maior parte deles é do **Rio Grande do Sul (51%)**, seguido do **Paraná (27%)** e **Santa Catarina (22%)**. De acordo com o gênero e faixa etária, a maior parte dos nosso clientes é do **sexo masculino**. A faixa etária predominante é de **35-44 e 54-70, para ambos os sexos**.
+
+*Total de assinantes:* 802
+
+*Distribuição geográfica:*
+- Rio Grande do Sul – 51%
+- Paraná – 27%
+- Santa Catarina – 22%
+
+*Gênero predominante:* Masculino
+
+*Faixas etárias predominante:* 35–44 e 54–70 (ambos os sexos)
+
+<br>
+
+** 📌 4. Qual a avaliação dos nossos serviços?**  
+De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
+
+***
+
+### 3. 📈 Como melhorar nosso faturamento e atendimento?
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
 **Relativas ao faturamento**
