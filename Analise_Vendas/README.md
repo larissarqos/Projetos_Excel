@@ -1,84 +1,126 @@
 
-<h1 align="center">Business Case - Análise de Vendas</h1>
+<h1 align="center"> Análise de Vendas </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/779ac29a-fc13-4357-8dca-14d2e2abb3c7" alt="analise_vendas" width="500"/>
 </p>
 
+## 📃 Contexto  
+O setor comercial de uma rede fictícia de lojas de roupas deseja avaliar o desempenho de suas filiais ao longo do ano de 2024. Com uma **meta mensal de R$7.000,00 por loja**, a empresa busca entender se os objetivos foram alcançados, identificar quais unidades e produtos geraram maior retorno, além de obter uma visão consolidada sobre seu faturamento anual.
+
+---
+
+🛠️ Ferramentas e Métodos Utilizados
+- Microsoft Excel
+- ETL
+- Análise dos dados
+- Slicer
+- Tabelas dinâmicas
+- Gráficos
+- Businnes Intelligence
+  
+---
+
+## 🎯 Objetivos  
+Para atender à demanda da empresa, realizamos uma análise exploratória das vendas de 2024, com foco nas seguintes questões-chave:
+
+- Qual foi o faturamento de 2024?   
+- Quais lojas mais se destacaram em vendas?  
+- Quais foram os produtos mais vendidos?  
+- As lojas atingiram a meta mensal estabelecida?
+
+Com base nessas perguntas, conseguimos avaliar o desempenho por loja, produto e mês — oferecendo à empresa uma visão clara sobre os pontos fortes e oportunidades de melhoria.
+
+---
+
+## 🧱 Estrutura do Projeto  
+
+### 1. Banco de dados  
+
+| Coluna           | Descrição                                              |
+|------------------|--------------------------------------------------------|
+| Loja             | Nome da filial                                         |
+| Data             | Data da venda                                          |
+| Produto          | Produto vendido                                        |
+| Valor_Unitario   | Valor unitário do produto                              |
+| Quantidade       | Quantidade vendida                                     |
+| Valor_Total      | Valor total da venda (Quantidade × Valor Unitário)     |
+
+---
 
 
-## Contexto
-O setor comercial de uma rede de lojas fictícia de roupas deseja saber o resultado das vendas e desempenho de suas filiais ao longo do ano de 2024. Eles estabeleceram uma **meta mensal de R$7.000,00 de faturamento por loja** e desejam, através dessa análise, descobrir se a meta foi atingida ao longo do ano, bem como qual foi o desempenho geral da empresa, e quais lojas e produtos têm dado maior retorno nas vendas.
+### 2. 📍 Respondendo às perguntas de negócio
 
-## Objetivos
-Para responder aos pedidos da empresa, analisaremos o resultado das vendas de 2024 com base em 4 perguntas, descritas abaixo. Com isso, teremos o faturamento geral, por loja, produto e mês, o que vai nos apontar quais unidades, itens e período tiveram melhor desempenho naquele ano.
+#### 📌 1. Qual foi o faturamento de 2024?  
+O faturamento total do ano foi de **R$461.743,30**. As lojas do **Leblon** e de **Ipanema** lideraram as vendas, responsáveis por **28%** e **21,8%** do total, respectivamente.
 
-* Qual o faturamento de 2024?
-* Que lojas mais venderam?
-* Quais os produtos mais vendidos?
-* Nossas lojas atingiram a meta mensal estabelecida?
+| Loja     | Faturamento     | Participação no total |
+|----------|------------------|------------------------|
+| Leblon   | R$129.020,00     | 28%                    |
+| Ipanema  | R$100.448,64     | 21,8%                  |
+| Botafogo | R$91.200,00      | 19,8%                  |
+| Barra    | R$73.385,08      | 15,9%                  |
+| Tijuca   | R$67.689,58      | 14,6%                  |
+| **Total**| **R$461.743,30** | **100%**               |
 
-## Estrutura do Projeto
-### 1. Banco de dados
-Abaixo o dicionário dos dados:
+---
 
-| Coluna | Descrição |
-|----------|----------|
-| Loja | Nome da filial  |
-| Data   | Data da venda  |
-| Produto  | Produto vendido  |
-| Valor_Unitario | Valor de uma unidade do produto |
-| Quantidade | Quantidade de produtos vendidos  |
-| Valor_Total  | Valor total da venda (quantidade comprada * valor unitário) |
+#### 📌 2. Quais lojas mais venderam?  
+Em 2024, foram registradas **759 vendas**, totalizando **2.308 itens**. As filiais do **Leblon** e de **Ipanema** lideraram tanto em número de vendas quanto em faturamento.
 
-<br>
+---
 
-### 2. Respondendo às perguntas de negócio
+#### 📌 3. Quais os produtos mais vendidos?  
+As vendas foram bem distribuídas entre os produtos. Porém, em termos de faturamento, os destaques foram **Camisa Linho**, **Oxford** e **Joa**, que juntas representaram mais de **70% do faturamento**.
 
-**1. Qual o faturamento de 2024?**  
-O faturamento total do ano foi de **R$461.743,30**. Analisando por unidade, Leblon e Ipanema contaram com os maiores faturamentos, respectivamente 28% e 21,8% do total.
+| Produto         | Nº de Vendas | Quantidade | Faturamento      | % do Total     |
+|------------------|--------------|------------|------------------|----------------|
+| Camisa Oxford    | 158          | 480        | R$100.464,00     | 21,75%         |
+| Camiseta Navy    | 157          | 479        | R$80.136,70      | 17,36%         |
+| Camiseta Joa     | 151          | 480        | R$97.104,00      | 21,03%         |
+| Camiseta Pima    | 149          | 423        | R$50.506,20      | 10,94%         |
+| Camisa Linho     | 144          | 446        | R$133.532,40     | 28,92%         |
+| **Total**        | **759**      | **2.308**  | **R$461.743,30** | **100%**       |
 
-| Loja | Faturamento | Porcentagem |
-|:-----------:|:-------------------:|:-------------------:|
-| 5  | 10% | R$6.263,18|
-| 4  | 20% | R$5.742,40 |
-| 3  | 40% | R$5.168,20 |
-| 2  | 70% | R$4.485,60 |
-| 1  | 90% | R$3.839,55 |  
+---
 
-**2. Que lojas mais venderam?**  
-Contamos com um **total de 759 vendas, de 2.308 itens**. As unidades que mais venderam foram Leblon e Ipanema.
+** 📌 4. As lojas atingiram a meta mensal de R$7.000,00? **  
+Com base no faturamento médio mensal por loja (faturamento total ÷ 12), apenas **3 das 5 filiais** alcançaram ou superaram a meta: **Leblon, Ipanema e Botafogo**.
 
-**3. Quais os produtos mais vendidos?**  
-De maneira geral, **os itens tiveram distribuição semelhante em número de vendas e quantidade vendida**. A diferença se deu no faturamento, com** Camisa Linho, Oxford e Joa somando mais de 70% do faturamento total**. A tabela está ordenada pelo número de vendas.
+**Resumo por loja:**
 
-| Produto | Nº de Vendas | Quantidade de Itens | Faturamento | % Faturamento |
-|:-------:|:------------:|:-------------------:|:-----------:|:-------------:|
-| Camisa Oxford | 158 | 480 | R$100.464,00 | 21,75% |
-| Camiseta Navy | 157 | 479 | R$80.136,70 | 17,36% |
-| Camiseta Joa | 151 | 480 | R$97.104,00 | 21,03% |
-| Camiseta Pima | 149 | 423 | R$50.506,20 | 10,94% |
-| Camisa Linho | 144 | 446 | R$133.532,40 | 28,92% |
-| **Total** | **759** | **2.308** | **R$461.743,30** | **100%** |
+- **Leblon** – R$10.388,30/mês: Melhor desempenho do ano. Abaixo da meta apenas em setembro, com crescimento contínuo a partir de outubro.
 
-**4. Nossas lojas atingiram a meta mensal estabelecida?**  
-Aplicando o faturamento médio das lojas (faturamento total / 12 meses), apenas 3 das 5 lojas atingiram ou ultrapassaram a **meta estabelecida de R$7.000,00**, sendo elas **Leblon, Ipanema e Botafogo**. Todas as lojas contaram com oscilações, ou seja, ao longo do ano, houveram meses em que estavam acima ou abaixo da meta. Analisemos abaixo o desempenho de todas as lojas:
+- **Ipanema** – R$8.370,72/mês: Crescimento a partir de março. Consistente no restante do ano, sempre próxima ou acima da meta.
 
-* **Loja do Leblon:** Faturamento médio de R$10.388,30. Com o melhor desempenho, ficou um pouco abaixo da meta apenas em setembro. Contou com picos no faturamento entre julho e agosto e tendência de crescimento a partir de outubro.
+- **Botafogo** – R$7.600,00/mês: Regular ao longo do ano, exceto em julho.
 
-* **Loja de Ipanema:** Faturamento médio de R$8.370,72. Apresentou queda nas vendas no começo de 2024, passando a crescer entre março e abril. Após isso teve bom desempenho, estando acima ou muito próxima da meta no restante do ano.
+- **Barra** – R$6.115,42/mês: Acima da meta apenas em julho, novembro e dezembro. Desempenho fraco em setembro.
 
-* **Loja de Botafogo:** Faturamento médio de R$7.600,00. Ficou acima ou bem próximo da meta a maior parte do ano, estando muito abaixo apenas em julho.
+- **Tijuca** – R$5.610,17/mês: Atingiu ou superou a meta em apenas 5 meses. Início e fim do ano com queda nas vendas.
 
-* **Loja da Tijuca:** Faturamento médio de R$5.610,17. Com o pior desempenho, esteve acima ou próximo da meta apenas em 5 meses do ano. Começou e encerrou o ano com queda no faturamento.
+---
 
-* **Loja da Barra:** Faturamento médio de R$6.115,42. Ficou acima da meta apenas nos meses de julho, novembro e dezembro, contando com péssimo desempenho em setembro.
+### 3. 📈 Como melhorar os resultados?
+Com base na análise dos dados e padrões identificados, algumas ações estratégicas podem ser adotadas:
 
-### 3. Como melhorar nossos resultados?
-Há uma série de medidas que podemos adotar, conforme notas dos clientes nos diferentes fatores da análise (recência, frequência e valor), tais como:
 
-* **Aumentar promoções nas lojas com menor faturamento:** Para as lojas com pior desempenho podemos aumentar as campanhas de promoções e descontos, a fim de incentivar o aumento das vendas nessas filiais. Ambas contaram com baixo faturamento no começo do ano (janeiro - abril), podemos voltar campanhas para datas comemorativas que ocorrem neste período. Devemos explorar também o que causou pico nas vendas nessas lojas e buscar fidelizar os clientes que compram nesse período, a fim de trazê-los também em outras épocas do ano.
+#### 🟩 Ações por loja
+- **Campanhas promocionais focadas nas lojas com menor desempenho**  
+  Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
+  
+#### 🟦 Ações por produto
+- **Aproveitar o potencial dos produtos mais lucrativos**  
+  Campanhas de marketing direcionadas para os best-sellers (como Camisa Linho e Oxford) podem alavancar ainda mais o faturamento.
 
-* **Fidelizar clientes:** Para nossas lojas com melhor desempenho, podemos lançar programas de indicação, para obter mais clientes de perfil semelhante aos nossos de maior valor, assim como programas de fidelidade e premiações para esses clientes, aumentando seu engajamento com nossas lojas.
+- ** 🟪 Ações por perfil de cliente**  
+  Entender os picos de vendas e oferecer benefícios para clientes recorrentes pode aumentar a retenção.
+  Lançar programas de fidelização e indicação, a fim manter nossos cliente fiéis e obter clientes de perfil semelhante a estes.
 
-* **Focar em nossos produtos de maior faturamento:** Observamos que os produtos tiveram desempenho semelhante em número de vendas e quantidades vendidas, a diferença se deu no faturamento, devido, obviamente, ao preço dos produtos. Podemos realizar campanhas de marketing para estes produtos de maior valor, destacando suas qualidades e diferencial, e direcionando as campanhas para pessoas de perfil semelhante aos nossos clientes que adquirem essas camisas.
+#### 🟧 Acompanhamento contínuo
+- **Monitoramento mensal por loja e produto**  
+  Relatórios visuais e metas ajustadas com base no desempenho sazonal ajudam na tomada de decisão mais rápida e eficiente.
+  
+---
+
+*Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
