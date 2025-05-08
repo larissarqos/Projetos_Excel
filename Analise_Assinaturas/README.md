@@ -96,32 +96,18 @@ Avaliação geral positiva. As principais queixas envolvem:
 ### 3. 📈 Recomendações Estratégicas
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
-💼 Para Aumentar o Faturamento:
-Oferecer upgrades de planos: Incentivar migração para planos como o Premium X, destacando seus diferenciais.
+#### 🟩 Relativas ao faturamento:
+* Oferecer upgrades de planos: Incentivar migração para planos como o Premium X, destacando seus diferenciais.
 
-Expandir presença no PR e SC:
-Campanhas regionais, sistema de indicação e promoções específicas para atrair novos clientes.
+* Expandir presença no PR e SC: Campanhas regionais, sistema de indicação e promoções específicas para atrair novos clientes.
 
-Investir nos perfis com maior adesão:
-Público 35–70 anos, de ambos os sexos, é a maioria. Coletar feedbacks desse grupo pode guiar campanhas mais assertivas.
+* Investir nos perfis com maior adesão: Público 35–44 e 54-70 anos, de ambos os sexos. Coletar feedbacks desse grupo pode guiar campanhas mais assertivas.
 
-🤝 Para Melhorar o Atendimento:
-Revisar processos de entrega:
-Garantir testes de qualidade, verificação de itens e avaliar performance da transportadora.
+#### 🟩 Relativas ao tendimento:
+* Revisar processos de entrega: Garantir testes de qualidade, verificação de itens e avaliar performance da transportadora.
 
-Aprimorar o suporte ao cliente:
-Avaliar tempo e eficácia nas respostas, oferecer soluções que gerem satisfação (ex: descontos, trocas ágeis).
+* Aprimorar o suporte ao cliente: Avaliar tempo e eficácia nas respostas, oferecer soluções que gerem satisfação (ex: descontos, trocas ágeis de danificados).
 
-**Relativas ao faturamento**
+---
 
-* **Oferecer upgrades das assinaturas:** Podemos incentivar nossos clientes a adquirirem nossos serviços de maior preço, através de campanhas focadas no diferencial que esses produtos têm a oferecer.  Um maior número de assinaturas do Premium X, por exemplo, geraria um aumento significativo em nosso faturamento.
-
-* **Aumentar a quantidade de clientes no Paraná e Santa Catarina:** O Rio Grande do Sul detém mais da metade de nossas assinaturas, pensemos em como expandir nossos serviços também nos outros estados. Podemos incluir campanhas de marketing para aumentar as vendas nesses estados, descontos para clientes que indicarem o serviço e mesmo promoções voltadas para leads dessa região.
-
-* **Investir nos perfis que mais contrataram nossos serviços:** A maioria de nossos assinantes possui faixa etária entre 35-44 e 54-70. O impacto de gênero em nosso faturamento não é tão significativo, o que significa que podemos voltar nossas campanhas para ambos os sexos. Começar pedindo feedback desse perfil de clientes sobre nossos produtos (porque adquiriram/recomendariam) será um bom norte para basear nossas campanhas de marketing.
-
-**Relativas ao atendimento**
-* **Melhorar a qualidade das nossas entregas:** A maior parte das reclamações de nossos clientes têm relação com a entrega (faltando item, atraso na entrega, embalagem danificada, produto com defeito). Devemos direcionar essas reclamações ao setor responsável pelo embalamento e despacho dos produtos e certificar-se de que está sendo feito corretamente, de que há teste do produto antes do envio e verificação de que todos os itens estão na embalagem. Para além disso, avaliar junto à transportadora quais as causas de atraso na entrega e o que pode ser feito a respeito disso.
-
-* **Analisar a qualidade do suporte ao cliente:** É preciso avaliar a qualidade do nosso suporte, se os canais têm bom atendimento, se é atencioso com nossos clientes. Quanto tempo até a solução das queixas? As soluções oferecidas levam à satisfação dos clientes? Propor desconto nas mensalidades em caso de erros da empresa e agilizar a troca de produtos com defeito pode amenizar as reclamações relacionadas ao atendimento. 
-
+*Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
