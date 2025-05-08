@@ -1,5 +1,5 @@
 
-<h1 align="center"> Análise de Vendas </h1>
+<h1 align="center"> 📊 Business Case - Análise de Vendas </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aeb43c96-67f1-4208-b867-1bf1a376b9de" alt="analise_vendas" width="1100"/>
