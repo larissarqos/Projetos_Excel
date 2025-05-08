@@ -7,89 +7,96 @@
 ## 📃 Contexto
 Uma empresa fictícia busca entender melhor o comportamento de compra de seus clientes com o objetivo de otimizar estratégias de vendas e campanhas de marketing. Para isso, será realizada uma análise das vendas do último ano, considerando três fatores principais: valor gasto, frequência de compra e tempo desde a última compra.
 
+***
+
 ## 🎯 Objetivos
-Aplicaremos a análise RFV (Recência, Frequência e Valor), atribuindo notas de 1 (pior) a 5 (melhor) em cada fator, para responder às seguintes perguntas de negócio:
+Aplicaremos a análise RFV (Recência, Frequência e Valor), atribuindo notas de 1 (pior) a 5 (melhor) em cada fator, para responder às seguintes perguntas:
 
-Qual a recência dos clientes?
+* Qual a recência dos clientes?
+* Qual a frequência de compras?
+* Qual o valor médio gasto?
+* Qual o RFV geral da base de clientes?
 
-Qual a frequência de compras?
+Os resultados obtidos após a análise nos farão entender o comportamento de nossos clientes e obter insights sobre que decisões tomar de acordo com o seu perfil.
 
-Qual o valor médio gasto?
+***
 
-Qual o RFV geral da base de clientes?
+## 🧱 Estrutura do Projeto
 
-
-
-## Estrutura do Projeto
 ### 1. Banco de dados
-Abaixo o dicionário dos dados:
 
 | Coluna | Descrição |
-|----------|----------|
-| Cliente | Código do cliente  |
-| Recencia_Dias   | Dias desde a última compra   |
-| Ticket_Medio   | Valor médio gasto pelo cliente (total gasto / quantidade de pedidos)  |
-| Pedidos | Quantidade de Pedidos|
-| Recencia  | Cálculo de recência (o quão recente foi a última compra)  |
-| Frequencia  | Cálculo de frequência (o quão frequente o cliente compra)  |
-| Valor  | Cálculo de valor (quão alto é o valor de compra do cliente)  |
-| RFV | Cálculo geral considerando a recência, frequência e valor  |
+|--------|-----------|
+| Cliente       | Código do cliente                                                  |
+| Recencia_Dias | Dias desde a última compra                                         |
+| Ticket_Medio  | Valor médio gasto por pedido (total gasto / quantidade de pedidos) |
+| Pedidos       | Quantidade total de pedidos do cliente                             |
+| Recencia      | Nota de recência atribuída (1 a 5)                                 |
+| Frequencia    | Nota de frequência atribuída (1 a 5)                               |
+| Valor         | Nota de valor atribuída (1 a 5)                                    |
+| RFV           | Soma das três notas anteriores (máximo de 15)                      |
 
+***
 
-<br>
-
-### Métricas utilizadas
+### 📐Métricas utilizadas
 Métricas utilizadas ao estabelecer a recência, frequência e valor.
-* **Cálculo de recência:** Notas de 1 a 5, sendo 5 a compra mais recente (até 30 dias) e 1 a compra menos recente (até 365 dias).
+
+#### 🔸 Recência
+Reflete o tempo desde a última compra. Quanto mais recente, maior a nota
   
-| Recência    | Até dias |
-|:-----------:|:-------------------:|
-| 5  | 30 |
-| 4  | 60 |
-| 3  | 120|
+| Recência    | Até (dias) |
+|:-----------:|:----------:|
+| 5  | 30  |
+| 4  | 60  |
+| 3  | 120 |
 | 2  | 180 |
 | 1  | 365 |  
 
-
-* **Cálculo de frequência:** Utilizamos notas de 1 a 5, sendo 5 para a maior frequência (12 compras) e 1 para a menor frequência (1 compra). Os valores atribuídos para cada nota levaram em consideração a frequência de compra dos clientes.
+#### 🔸Frequência
+Número de compras realizadas no período. Quanto mais frequente, maior a nota. Os valores atribuídos para cada nota levaram em consideração a frequência de compra dos clientes na base de dados.
   
-| Frequência    | Ao menos |
-|:-----------:|:-------------------:|
+| Frequência  | Ao menos (quantidade de pedidos) |
+|:-----------:|:--------------------------------:|
 | 5  | 12 |
 | 4  | 11 |
-| 3  | 8 |
-| 2  | 5 |
-| 1  | 1 |  
+| 3  | 8  |
+| 2  | 5  |
+| 1  | 1  |  
 
+#### 🔸 Valor
+Representa o ticket médio do cliente. A nota é atribuída com base em percentis.
+| Valor   | Percentil | Ticket Médio (aproximado) |
+|:-------:|:---------:|:-------------------------:|
+| 5  | 10% | ≥ R$6.263,18 |
+| 4  | 20% | ≥ R$5.742,40 |
+| 3  | 40% | ≥ R$5.168,20 |
+| 2  | 70% | ≥ R$4.485,60 |
+| 1  | 90% | ≥ R$3.839,55 |  
 
-* **Cálculo de valor:** Utilizamos notas de 1 a 5, sendo 5 para o maior valor de compra e 1 para o menor. Os valores aplicados para cada nota levaram em consideração o ticket médio dos clientes. O valor de ticket médio 10% mais alto levou nota 5,  20% mais alto nota 4, e segue de acordo com a tabela.
+***
 
-| Valor   | % | Ticket Médio |
-|:-----------:|:-------------------:|:-------------------:|
-| 5  | 10% | R$6.263,18|
-| 4  | 20% | R$5.742,40 |
-| 3  | 40% | R$5.168,20 |
-| 2  | 70% | R$4.485,60 |
-| 1  | 90% | R$3.839,55 |  
+### 📍 2. Respondendo às perguntas de negócio
 
+#### 📌 1. Qual a recência?
+A maioria dos clientes obteve **nota 5 em recência**, ou seja, realizaram uma compra nos últimos 30 dias. Esse é um forte indicativo de **engajamento recente com a empresa**.
+
+<br>
+
+#### 📌 2. Qual a frequência?
+A distribuição foi concentrada entre as **notas 5 e 4**, revelando um bom volume de clientes que **compram com regularidade**.
 
 <br>
 
-### 2. Respondendo às perguntas de negócio
-
-**1.Qual a recência?**  
-A recência indica o tempo desde a última compra, através dela podemos mensurar o engajamento de nossos clientes com a empresa. A nota de recência da empresa é **majoritariamente 5**, isso significa que muitos clientes realizaram compras nos últimos 30 dias.
-
-**2. Qual a frequência?**  
-A frequência indica o quão frequente o cliente tem comprado com a empresa. Com essa informação podemos mensurar o engajamento de nossos clientes. Para a frequência, contamos com uma **maior distribuição entre as notas 5 e 4**, o que também é um bom indicativo.
-
-**3. Qual o valor?**  
-O valor indica qual o montante gasto pelos clientes com nossos produtos e, através disso, descobrimos quais os clientes de maior valor para a empresa. Contamos com uma **maior quantidade de notas 3 e então 4 e 5**.
-
-**4. Qual o RFV geral da empresa?**  
-Analisando o total de notas, o comportamento de compra dos nossos clientes possui a **maior parte das notas entre 12 e 13**, o que é um bom indicativo, considerando a nota máxima como 15. Voltando para as perguntas anteriores, sabemos que a maior parte deles têm **5 em recência, 5 ou 4 em frequência e 3 em valor**, o que justifica essa maior concentração nos valores 12 e 13 no gráfico abaixo.
+#### 📌 3. Qual o valor?
+O ticket médio dos clientes ficou concentrado entre as **notas 3 e 4, com uma boa proporção também na nota 5**. Isso indica um perfil de **gasto moderado, com margem para crescimento**.
 
 <br>
+
+#### 📌 4. Qual o RFV geral da empresa?  
+4. Qual o RFV geral da empresa?
+A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que muitos clientes são recentes, compram com frequência e têm valor médio de compra razoável. Podemos considerar esses perfil como muito valioso para a empresa, com alto potencial de fidelização.
+
+***
 
 ### 3. Como prosseguir com meus clientes, de acordo com a análise RFV?
 Há uma série de medidas que podemos adotar, conforme notas dos clientes nos diferentes fatores da análise (recência, frequência e valor), tais como:
