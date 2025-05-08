@@ -9,8 +9,6 @@ Uma empresa fictícia busca entender melhor o comportamento de compra de seus cl
 
 ***
 
-## 
-
 ## 🎯 Objetivos
 Aplicaremos a análise RFV (Recência, Frequência e Valor), atribuindo notas de 1 (pior) a 5 (melhor) em cada fator, para responder às seguintes perguntas:
 
@@ -20,6 +18,8 @@ Aplicaremos a análise RFV (Recência, Frequência e Valor), atribuindo notas de
 * Qual o RFV geral da base de clientes?
 
 Os resultados obtidos após a análise nos farão entender o comportamento de nossos clientes e obter insights sobre que decisões tomar de acordo com o seu perfil.
+
+***
 
 ### 📐 Métricas utilizadas
 Métricas utilizadas ao estabelecer a recência, frequência e valor.
