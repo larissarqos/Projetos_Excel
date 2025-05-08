@@ -33,7 +33,7 @@ Os resultados obtidos após a análise nos farão entender o comportamento de no
 Métricas utilizadas ao estabelecer a recência, frequência e valor.
 
 #### 🔸 Recência
-Reflete o tempo desde a última compra. Quanto mais recente, maior a nota
+Reflete o tempo desde a última compra. Quanto mais recente, maior a nota.
   
 | Recência    | Até (dias) |
 |:-----------:|:----------:|
@@ -93,33 +93,36 @@ Representa o ticket médio do cliente. A nota é atribuída com base em percenti
 A maioria dos clientes obteve **nota 5 em recência**, ou seja, realizaram uma compra nos últimos 30 dias. Esse é um forte indicativo de **engajamento recente com a empresa**. Abaixo distribuição das notas:
 | Nota  | Distribuição | % do Total |
 |:-----:|:------------:|-----------:|
-| 5  | 626 | % |
-| 4  | 209 | % |
-| 3  |  93 | % |
-| 2  |  18 | % |
-| 1  |  54 | % | 
+| 5  | 626 | 63,6% |
+| 4  | 209 | 20,9% |
+| 3  |  93 |  9,3% |
+| 2  |  18 |  1,8% |
+| 1  |  54 |  5,4% | 
+
 <br>
 
 #### 📌 2. Qual a frequência?
 A distribuição foi concentrada entre as **notas 5 e 4**, revelando um bom volume de clientes que **compram com regularidade**. Abaixo distribuição das notas:
 | Nota  | Distribuição | % do Total |
 |:-----:|:------------:|-----------:|
-| 5  | 626 | % |
-| 4  | 209 | % |
-| 3  |  93 | % |
-| 2  |  18 | % |
-| 1  |  54 | % | 
+| 5  | 300 | 30%   |
+| 4  | 376 | 37,6% |
+| 3  | 247 | 24,7% |
+| 2  |  76 |  7,6% |
+| 1  |   1 |  0,1%   | 
+
 <br>
 
 #### 📌 3. Qual o valor?
 O ticket médio dos clientes ficou concentrado entre as **notas 3 e 4, com uma boa proporção também na nota 5**. Isso indica um perfil de **gasto moderado, com margem para crescimento**. Abaixo distribuição das notas:
 | Nota  | Distribuição | % do Total |
 |:-----:|:------------:|-----------:|
-| 5  | 626 | % |
-| 4  | 209 | % |
-| 3  |  93 | % |
-| 2  |  18 | % |
-| 1  |  54 | % | 
+| 5  | 199 | 19,9% |
+| 4  | 202 | 20,2% |
+| 3  | 299 | 29,9% |
+| 2  | 200 | 20%   |
+| 1  | 100 | 10%   | 
+
 <br>
 
 #### 📌 4. Qual o RFV geral da empresa?  
@@ -127,18 +130,18 @@ A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que 
 
 | Nota  | Distribuição | % do Total |
 |:-----:|:------------:|-----------:|
-| 15 | 626 | % |
-| 14 | 209 | % |
-| 13 |  93 | % |
-| 12 |  18 | % |
-| 11 |  54 | % |
-| 10 | 626 | % |
-|  9 | 209 | % |
-|  8 |  93 | % |
-|  7 |  18 | % |
-|  6 |  54 | % | 
-|  5 |  54 | % |
-|  4 |  54 | % |
+| 15 |  37 |  3,7% |
+| 14 | 101 | 10,1% |
+| 13 | 181 | 18,1% |
+| 12 | 220 | 22%   |
+| 11 | 175 | 17,5% |
+| 10 | 130 | 13%   |
+|  9 |  71 |  7,1% |
+|  8 |  42 |  4,2% |
+|  7 |  21 |  2,1% |
+|  6 |  15 |  1,5% | 
+|  5 |   6 |  0,6% |
+|  4 |   1 |  0,1% |
 
 ***
 
@@ -162,5 +165,9 @@ Com base nas pontuações obtidas, é possível definir estratégias direcionada
 **🟩 Ações:** Incentivar compras de maior valor com combos, frete grátis acima de certo valor ou upselling, a fim de aumentar o ticket médio desse perfil.
 
 --
-**🟧 Alto RFV:** Clientes que são frequentes, recentes e têm alto valor. Atualmente representam  
+**🟧 Alto RFV:** Clientes que são frequentes, recentes e têm alto valor. Atualmente representam 3,7% (Nota de RFV geral = 15) dos clientes da empresa.
 **🟩 Ações:** Manter e recompensar — programas de fidelidade, vantagens VIP, campanhas de indicação, recompensas (como condições especiais de pagamento, descontos, brindes), premiações.
+
+***
+
+*Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
