@@ -1,95 +1,192 @@
-<h1 align="center">Business Case - Análise RFV Para Setor de Vendas</h1>
+<h1 align="center">📊 Análise RFV - Setor de Vendas</h1>
 
-## Contexto
-Uma empresa fictícia busca entender melhor o comportamento de compra de seus clientes para melhorar suas vendas e estratégia das campanhas de marketing. Para isso, desejam analisar o último ano de vendas, considerando o valor gasto por seus clientes e a frequência de compras.
-
-## Objetivos
-Para atender à demanda da empresa, aplicaremos a análise de RFV (Recência, Frequência e Valor), aplicando 1 como pior nota e 5 para melhor nota em cada um dos fatores da análise.
-
-* Qual a recência?
-* Qual a  frequência?
-* Qual o valor? 
-* Qual o RFV geral da empresa?
-
-## Estrutura do Projeto
-### 1. Banco de dados
-Abaixo o dicionário dos dados:
-
-| Coluna | Descrição |
-|----------|----------|
-| Cliente | Código do cliente  |
-| Recencia_Dias   | Dias desde a última compra   |
-| Ticket_Medio   | Valor médio gasto pelo cliente (total gasto / quantidade de pedidos)  |
-| Pedidos | Quantidade de Pedidos|
-| Recencia  | Cálculo de recência (o quão recente foi a última compra)  |
-| Frequencia  | Cálculo de frequência (o quão frequente o cliente compra)  |
-| Valor  | Cálculo de valor (quão alto é o valor de compra do cliente)  |
-| RFV | Cálculo geral considerando a recência, frequência e valor  |
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e8f0bb9-14e9-4fe7-a21d-5bc5b8616b20" alt="analise_vendas" width="1100" height="330"/>
+</p>
 
 <br>
 
-### Métricas utilizadas
+## 📃 Contexto
+Uma empresa fictícia busca entender melhor o comportamento de compra de seus clientes com o objetivo de otimizar estratégias de vendas e campanhas de marketing. Para isso, será realizada uma análise das vendas do último ano, considerando três fatores principais: valor gasto, frequência de compra e tempo desde a última compra.
+
+***
+
+<br>
+
+## 🛠️ Ferramentas e Métodos Utilizados
+* Microsoft Excel (fórmulas, tabelas dinâmicas, gráficos, slicers)
+* Limpeza e tramento dos dados
+* Engenharia de atributos
+* Business Intelligence
+
+***
+
+<br>
+
+## 🎯 Objetivos
+Aplicaremos a análise RFV (Recência, Frequência e Valor), atribuindo notas de 1 (pior) a 5 (melhor) em cada fator, para responder às seguintes perguntas:
+
+* Qual a recência dos clientes?
+* Qual a frequência de compras?
+* Qual o valor médio gasto?
+* Qual o RFV geral da base de clientes?
+
+Os resultados obtidos após a análise nos farão entender o comportamento de nossos clientes e obter insights sobre que decisões tomar de acordo com o seu perfil.
+
+***
+
+<br>
+
+## 📐 Métricas utilizadas
 Métricas utilizadas ao estabelecer a recência, frequência e valor.
-* **Cálculo de recência:** Notas de 1 a 5, sendo 5 a compra mais recente (até 30 dias) e 1 a compra menos recente (até 365 dias).
+
+#### 🔸 Recência
+Reflete o tempo desde a última compra. Quanto mais recente, maior a nota.
   
-| Recência    | Até dias |
-|:-----------:|:-------------------:|
-| 5  | 30 |
-| 4  | 60 |
-| 3  | 120|
+| Recência    | Até (dias) |
+|:-----------:|:----------:|
+| 5  | 30  |
+| 4  | 60  |
+| 3  | 120 |
 | 2  | 180 |
 | 1  | 365 |  
 
+--
 
-* **Cálculo de frequência:** Utilizamos notas de 1 a 5, sendo 5 para a maior frequência (12 compras) e 1 para a menor frequência (1 compra). Os valores atribuídos para cada nota levaram em consideração a frequência de compra dos clientes.
+#### 🔸 Frequência
+Número de compras realizadas no período. Quanto mais frequente, maior a nota. Os valores atribuídos para cada nota levaram em consideração a frequência de compra dos clientes na base de dados.
   
-| Frequência    | Ao menos |
-|:-----------:|:-------------------:|
+| Frequência  | Ao menos (quantidade de pedidos) |
+|:-----------:|:--------------------------------:|
 | 5  | 12 |
 | 4  | 11 |
-| 3  | 8 |
-| 2  | 5 |
-| 1  | 1 |  
+| 3  | 8  |
+| 2  | 5  |
+| 1  | 1  |  
 
+--
 
-* **Cálculo de valor:** Utilizamos notas de 1 a 5, sendo 5 para o maior valor de compra e 1 para o menor. Os valores aplicados para cada nota levaram em consideração o ticket médio dos clientes. O valor de ticket médio 10% mais alto levou nota 5,  20% mais alto nota 4, e segue de acordo com a tabela.
+#### 🔸 Valor
+Representa o ticket médio do cliente. A nota é atribuída com base em percentis.
+| Valor   | Percentil | Ticket Médio (aproximado) |
+|:-------:|:---------:|:-------------------------:|
+| 5  | 10% | ≥ R$6.263,18 |
+| 4  | 20% | ≥ R$5.742,40 |
+| 3  | 40% | ≥ R$5.168,20 |
+| 2  | 70% | ≥ R$4.485,60 |
+| 1  | 90% | ≥ R$3.839,55 | 
 
-| Valor   | % | Ticket Médio |
-|:-----------:|:-------------------:|:-------------------:|
-| 5  | 10% | R$6.263,18|
-| 4  | 20% | R$5.742,40 |
-| 3  | 40% | R$5.168,20 |
-| 2  | 70% | R$4.485,60 |
-| 1  | 90% | R$3.839,55 |  
-
-
-<br>
-
-### 2. Respondendo às perguntas de negócio
-
-**1.Qual a recência?**  
-A recência indica o tempo desde a última compra, através dela podemos mensurar o engajamento de nossos clientes com a empresa. A nota de recência da empresa é **majoritariamente 5**, isso significa que muitos clientes realizaram compras nos últimos 30 dias.
-
-**2. Qual a frequência?**  
-A frequência indica o quão frequente o cliente tem comprado com a empresa. Com essa informação podemos mensurar o engajamento de nossos clientes. Para a frequência, contamos com uma **maior distribuição entre as notas 5 e 4**, o que também é um bom indicativo.
-
-**3. Qual o valor?**  
-O valor indica qual o montante gasto pelos clientes com nossos produtos e, através disso, descobrimos quais os clientes de maior valor para a empresa. Contamos com uma **maior quantidade de notas 3 e então 4 e 5**.
-
-**4. Qual o RFV geral da empresa?**  
-Analisando o total de notas, o comportamento de compra dos nossos clientes possui a **maior parte das notas entre 12 e 13**, o que é um bom indicativo, considerando a nota máxima como 15. Voltando para as perguntas anteriores, sabemos que a maior parte deles têm **5 em recência, 5 ou 4 em frequência e 3 em valor**, o que justifica essa maior concentração nos valores 12 e 13 no gráfico abaixo.
+***
 
 <br>
 
-### 3. Como prosseguir com meus clientes, de acordo com a análise RFV?
-Há uma série de medidas que podemos adotar, conforme notas dos clientes nos diferentes fatores da análise (recência, frequência e valor), tais como:
+## 🧱 Estrutura do Projeto
 
-* **Baixa recência:** É um cliente hibernando ou quase perdido, pois uma baixa recência indica muito tempo desde a última compra. É importante trazê-lo de volta através de promoções, ofertas relâmpago ou campanhas de reativação.
+### 🗄 Banco de dados
 
-* **Baixa frequência:** Clientes com pouca frequência, mas alta ou média recência, pode indicar que são novos. São clientes promissores, é importante construir um relacionamento com eles, aplicando ofertas e descontos especiais.
+| Coluna | Descrição |
+|--------|-----------|
+| Cliente       | Código do cliente                                                  |
+| Recencia_Dias | Dias desde a última compra                                         |
+| Ticket_Medio  | Valor médio gasto por pedido (total gasto / quantidade de pedidos) |
+| Pedidos       | Quantidade total de pedidos do cliente                             |
+| Recencia      | Nota de recência atribuída (1 a 5)                                 |
+| Frequencia    | Nota de frequência atribuída (1 a 5)                               |
+| Valor         | Nota de valor atribuída (1 a 5)                                    |
+| RFV           | Soma das três notas anteriores (máximo de 15)                      |
 
-* **Baixo valor:** Na nossa análise, percebemos muitos clientes com notas em valor entre 3 e 4, mesmo contando com alta frequência e recência. Isso pode ocorrer se os produtos adquiridos têm menor preço, por exemplo. É importante incentivar esses clientes com promoções especiais, buscando aumentar seu ticket médio.
+***
 
-* **Alto RFV:** Clientes com alta recência, frequência e valor são fiéis e é importante mantê-los. Uma boa forma de fazer isso é aplicando programas de fidelidade, recompensas/pontos e mesmo premiações para estes, o que vai fortalecer seu laço e fidelidade com a empresa. Um programa de recomendação também pode funcionar muito bem, pois estaremos influenciando nossos melhores clientes a indicar nossos produtos/serviços a pessoas com perfil próximo ao deles, o que pode gerar mais clientes promissores.
+<br>
 
+### 📍 Respondendo às perguntas de negócio
+
+#### 📌 1. Qual a recência?
+A maioria dos clientes obteve **nota 5 em recência**, ou seja, realizaram uma compra nos últimos 30 dias. Esse é um forte indicativo de **engajamento recente com a empresa**. Abaixo distribuição das notas:
+| Nota  | Distribuição | % do Total |
+|:-----:|:------------:|-----------:|
+| 5  | 626 | 63,6% |
+| 4  | 209 | 20,9% |
+| 3  |  93 |  9,3% |
+| 2  |  18 |  1,8% |
+| 1  |  54 |  5,4% | 
+
+--
+
+#### 📌 2. Qual a frequência?
+A distribuição foi concentrada entre as **notas 5 e 4**, revelando um bom volume de clientes que **compram com regularidade**. Abaixo distribuição das notas:
+| Nota  | Distribuição | % do Total |
+|:-----:|:------------:|-----------:|
+| 5  | 300 | 30%   |
+| 4  | 376 | 37,6% |
+| 3  | 247 | 24,7% |
+| 2  |  76 |  7,6% |
+| 1  |   1 |  0,1%   | 
+
+--
+
+#### 📌 3. Qual o valor?
+O ticket médio dos clientes ficou concentrado entre as **notas 3 e 4, com uma boa proporção também na nota 5**. Isso indica um perfil de **gasto moderado, com margem para crescimento**. Abaixo distribuição das notas:
+| Nota  | Distribuição | % do Total |
+|:-----:|:------------:|-----------:|
+| 5  | 199 | 19,9% |
+| 4  | 202 | 20,2% |
+| 3  | 299 | 29,9% |
+| 2  | 200 | 20%   |
+| 1  | 100 | 10%   | 
+
+--
+
+#### 📌 4. Qual o RFV geral da empresa?  
+A pontuação mais comum foi **entre 12 e 13** (máximo = 15), o que mostra que **muitos clientes são recentes**, **compram com frequência** e têm **valor médio de compra razoável**. Podemos considerar esses perfil como muito valioso para a empresa, com **alto potencial de fidelização**. Abaixo distribuição das notas:
+
+| Nota  | Distribuição | % do Total |
+|:-----:|:------------:|-----------:|
+| 15 |  37 |  3,7% |
+| 14 | 101 | 10,1% |
+| 13 | 181 | 18,1% |
+| 12 | 220 | 22%   |
+| 11 | 175 | 17,5% |
+| 10 | 130 | 13%   |
+|  9 |  71 |  7,1% |
+|  8 |  42 |  4,2% |
+|  7 |  21 |  2,1% |
+|  6 |  15 |  1,5% | 
+|  5 |   6 |  0,6% |
+|  4 |   1 |  0,1% |
+
+***
+
+<br>
+
+### 📈 Recomendações Estratégicas
+Com base nas pontuações obtidas, é possível definir estratégias direcionadas para os diferentes perfis de clientes:
+
+**🟧 Baixa recência:** Cliente hibernando ou quase perdido, estão inativos há muito tempo.  
+
+**🟩 Ações:** Reativação com campanhas sazonais, e-mails personalizados e promoções exclusivas.
+
+--
+
+**🟧 Baixa frequência:** Contamos com alta recência, a baixa frequência pode indicar pouca regularidade nas compras.  
+
+**🟩 Ações:** Nutrir o relacionamento com ofertas de produtos complementares, campanhas de pontos que geram desconto com prazo de validade, buscando manter a frequência de compras desses clientes.
+
+--
+
+**🟧 Baixo valor:** Percebemos, em nossa análise, baixo valor (muitas notas entre 3 e 4) mesmo com alta frequência e recência.  
+
+**🟩 Ações:** Incentivar compras de maior valor com combos, frete grátis acima de certo valor ou upselling, a fim de aumentar o ticket médio desse perfil.
+
+--  
+
+**🟧 Alto RFV:** Clientes que são frequentes, recentes e têm alto valor. Atualmente representam 3,7% (Nota de RFV geral = 15) dos clientes da empresa.  
+**🟩 Ações:** Manter e recompensar — programas de fidelidade, vantagens VIP, campanhas de indicação, recompensas (como condições especiais de pagamento, descontos, brindes), premiações.
+
+***
+
+<br>
+
+### 🚀 Impacto Esperado
+
+*Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
