@@ -153,16 +153,16 @@ Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
   
 #### 🧮 Cálculo da projeção:
 
-* Camisa Linho:
+* **Camisa Linho:**
   Vendas atuais: 144 unidades + 10% = 158 unidades
   
   Valor médio por unidade: R$133.530 / 144 = ~ R$927,30
   
   Novo faturamento: 158 * R$927,30 ~ R$146.513
 
---
 
-* Camisa Oxford:
+
+* **Camisa Oxford:**
   
   Vendas atuais: 158 unidades + 10% = 174 unidades
   
@@ -172,7 +172,7 @@ Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
 
 --
 
-* Camiseta Joa:
+* **Camiseta Joa:**
   
   Vendas atuais: 151 unidades + 10% = 166 unidades
   
@@ -182,7 +182,7 @@ Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
 
 --
   
-* Total:
+* **Total:**
   
   Novo total dos 3 produtos: R$146.513 + R$110.664 + R$106.738 = R$363.915  
   
