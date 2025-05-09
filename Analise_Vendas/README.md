@@ -135,23 +135,22 @@ A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aum
 - **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
   
 #### 🧮 Cálculo da projeção:
-- **Média mensal Ipanema e Botafogo:** R$8.370 + R$7.600 = R$15.970 / 2 = R$7.985. Arredondamos para R$8.000,00
-- **Aumento faturamento anual Barra e Tijuca:** R$8.000 mensais * 12 = R$96.000
-- **Faturamento anual total (arrendondando valores):** R$10.400 + R$8.400 + R$7.600 + R$8.000 + R$8.000 = R$42.400 x 12 = R$508.800 no ano
+- Média mensal Ipanema e Botafogo: R$8.370 + R$7.600 = R$15.970 / 2 = R$7.985. Arredondamos para R$8.000,00
+- Aumento faturamento anual Barra e Tijuca: R$8.000 mensais * 12 = R$96.000
+- Faturamento anual total (arrendondando valores): R$10.400 + R$8.400 + R$7.600 + R$8.000 + R$8.000 = R$42.400 x 12 = R$508.800 no ano
 
 --
 
 #### 🟩 Aumento de 10% nas vendas dos produtos mais lucrativos (Camisa Linho, Oxford e Joa)
-- **Projeção:** Um aumento de apenas 10% nas vendas dos três produtos mais lucrativos pode gerar um acréscimo de aproximadamente R$32.600 ao faturamento anual, um **aumento percentual de ~11,4%**.
+- **Projeção:** Um aumento de apenas 10% nas vendas dos três produtos mais lucrativos pode gerar um acréscimo de aproximadamente R$32.600 ao faturamento anual, um **aumento percentual de ~ 7%**.
 - **Impacto:** Elevação direta da receita sem necessidade de ampliar a cartela de produtos.
   
 #### 🧮 Cálculo da projeção:
-- **Aumento de 10% nas vendas de Camisa Linho, Oxford e Joa:**
 - Linho: 144 vendas + 10% = 158; Faturamento por venda: ~ R$927,00 * 158 = ~ R$146.466
 - Oxford: 158 vendas + 10% = 174; Faturamento  por venda: ~ R$636,00 * 174 =  ~ R$110.664
 - Joa: 151 vendas + 10% = 166; Faturamento por venda: ~ R$642 * 166 = ~ R$106.572
 
-- **Faturamento anual total (arrendondando valores):** R$146.466 + R$110.664 + R$106.572 + R$80.136 + R$50.506 = ~ R$494.344 - R$461.743 (faturamento atual) = ~ R$32.600
+- Faturamento anual total (arrendondando valores): R$146.466 + R$110.664 + R$106.572 + R$80.136 + R$50.506 = ~ R$494.344 - R$461.743 (faturamento atual) = ~ R$32.600
 
 --
 
