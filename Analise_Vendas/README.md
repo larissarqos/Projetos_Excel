@@ -194,4 +194,6 @@ Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
 
 ***
 
+<br>
+
 *Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
