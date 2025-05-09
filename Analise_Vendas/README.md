@@ -124,7 +124,7 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
 A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aumento de faturamento quanto na eficiência operacional da rede de lojas. Com base nos dados de 2024, os seguintes resultados são projetados:
 
 #### 🟩 Aumento no faturamento das lojas de pior desempenho (Barra e Tijuca)
-- **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio de Ipanema e Botafogo (aproximadamente R$8.000/mês), o ganho potencial anual para cada uma das lojas é de ~ R$96.000. O faturamento total anual subiria de R$461,743 para  ~R$508.800, um **aumento percentual de ~11,4%**. 
+- **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio de Ipanema e Botafogo (aproximadamente R$8.000/mês), o ganho potencial anual para cada uma das lojas é de ~R$96.000. O faturamento total anual subiria de R$461,743 para  ~R$508.800, um **aumento percentual de ~11,4%**. 
 - **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
   
 #### 🧮 Cálculo da projeção:
@@ -148,7 +148,7 @@ Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
 --
 
 #### 🟩 Aumento de 10% nas vendas dos produtos mais lucrativos (Camisa Linho, Oxford e Joa)
-- **Projeção:** Um aumento de apenas 10% nas vendas dos três produtos mais lucrativos pode gerar um acréscimo de aproximadamente R$32.800 ao faturamento anual, um **aumento percentual de ~ 7,1%**.
+- **Projeção:** Um aumento de apenas 10% nas vendas dos três produtos mais lucrativos pode gerar um acréscimo de aproximadamente R$32.800 ao faturamento anual, um **aumento percentual de ~7,1%**.
 - **Impacto:** Elevação direta da receita sem necessidade de ampliar a cartela de produtos.
   
 #### 🧮 Cálculo da projeção:
@@ -156,9 +156,9 @@ Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
 * **Camisa Linho:**
   Vendas atuais: 144 unidades + 10% = 158 unidades
   
-  Valor médio por unidade: R$133.530 / 144 = ~ R$927,30
+  Valor médio por unidade: R$133.530 / 144 = ~R$927,30
   
-  Novo faturamento: 158 * R$927,30 ~ R$146.513
+  Novo faturamento: 158 * R$927,30 = ~R$146.513
 
 
 
@@ -166,18 +166,18 @@ Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
   
   Vendas atuais: 158 unidades + 10% = 174 unidades
   
-  Valor médio por unidade: R$100.460,00 ÷ 158= ~ R$636
+  Valor médio por unidade: R$100.460,00 / 158 = ~R$636
   
-  Novo faturamento: 174 * R$636 ~ R$110.664
+  Novo faturamento: 174 * R$636 = ~R$110.664
 
 
 * **Camiseta Joa:**
   
   Vendas atuais: 151 unidades + 10% = 166 unidades
   
-  Valor médio por unidade: R$97.100 / 151 = ~ R$643,00
+  Valor médio por unidade: R$97.100 / 151 = ~R$643,00
   
-  Novo faturamento: 166 * R$643,00 ~ R$106.738
+  Novo faturamento: 166 * R$643,00 = ~R$106.738
 
 * **Total:**
   
