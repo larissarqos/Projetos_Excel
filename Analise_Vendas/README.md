@@ -155,46 +155,42 @@ Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
 
 * Camisa Linho:
   Vendas atuais: 144 unidades + 10% = 158 unidades
-  Valor médio por unidade: R$133.500 / 144 = ~ R$927,30
+  
+  Valor médio por unidade: R$133.530 / 144 = ~ R$927,30
+  
   Novo faturamento: 158 * R$927,30 ~ R$146.513
+
+--
 
 * Camisa Oxford:
   
   Vendas atuais: 158 unidades + 10% = 174 unidades
   
-  Valor médio por unidade: R$100.464,00 ÷ 158 ~ R$636
+  Valor médio por unidade: R$100.460,00 ÷ 158= ~ R$636
   
   Novo faturamento: 174 * R$636 ~ R$110.664
+
+--
 
 * Camiseta Joa:
   
   Vendas atuais: 151 unidades + 10% = 166 unidades
   
-  Valor médio por unidade: R$97.104,00 / 151 ~ R$643,00
+  Valor médio por unidade: R$97.100 / 151 = ~ R$643,00
   
   Novo faturamento: 166 * R$643,00 ~ R$106.738
+
+--
   
 * Total:
   
-Novo total dos 3 produtos: R$146.513 + R$110.664 + R$106.738 = R$363.915  
+  Novo total dos 3 produtos: R$146.513 + R$110.664 + R$106.738 = R$363.915  
+  
+  Faturamento atual dos 3 produtos: R$331.100  
+  
+  Acréscimo estimado: R$363.915 − R$331.100 = ~ R$32.815  
 
-Faturamento atual dos 3 produtos: R$331.100  
-
-Acréscimo estimado: R$363.915 − R$331.100 ≈ R$32.815  
-
-
-| Produto         | Nº de Vendas | Quantidade | Faturamento Anual | % do Total  |
-|-----------------|--------------|------------|-------------------|-------------|
-| Camisa Oxford   | 158          | 480        | R$100.464,00      | 21,75%      |
-| Camiseta Navy   | 157          | 479        | R$80.136,70       | 17,36%      |
-| Camiseta Joa    | 151          | 480        | R$97.104,00       | 21,03%      |
-| Camiseta Pima   | 149          | 423        | R$50.506,20       | 10,94%      |
-| Camisa Linho    | 144          | 446        | R$133.532,40      | 28,92%      |
-| **Total**       | **759**      | **2.308**  | **R$461.743,30**  | **100%**    |
-
-
-
-
+  Aumento percentual no faturamento total: (R$32.815 / R$461.743) * 100 = ~7,1%
 
 ***
 
