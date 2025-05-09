@@ -124,7 +124,7 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
 A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aumento de faturamento quanto na eficiência operacional da rede de lojas. Com base nos dados de 2024, os seguintes resultados são projetados:
 
 #### 🟩 Aumento no faturamento das lojas de pior desempenho (Barra e Tijuca)
-- **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio de Ipanema e Botafogo (aproximadamente R$8.000), o ganho potencial anual para cada uma das lojas é de ~R$96.000, equiparando-se ao faturamento de Botafogo. O faturamento total anual subiria de R$461,743 para ~R$508.000, um **aumento percentual de ~11,4%**. 
+- **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio de Ipanema e Botafogo (aproximadamente R$8.000), o ganho potencial anual para cada uma das lojas é de ~ R$96.000, equiparando-se ao faturamento de Botafogo. O faturamento total anual subiria de R$461,743 para ~R$508.000, um **aumento percentual de ~11,4%**. 
 - **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
   
 #### 🧮 Cálculo da projeção:
@@ -135,15 +135,15 @@ A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aum
 --
 
 #### 🟩 Aumento de 10% nas vendas dos produtos mais lucrativos (Camisa Linho, Oxford e Joa)
-- **Projeção:** Um aumento de apenas 10% nas vendas dos três produtos mais lucrativos pode gerar um acréscimo de aproximadamente R$32.600 ao faturamento anual, um **aumento percentual de ~ 7%**.
+- **Projeção:** Um aumento de apenas 10% nas vendas dos três produtos mais lucrativos pode gerar um acréscimo de aproximadamente R$32.800 ao faturamento anual, um **aumento percentual de ~ 7,1%**.
 - **Impacto:** Elevação direta da receita sem necessidade de ampliar a cartela de produtos.
   
 #### 🧮 Cálculo da projeção:
-- Linho: 144 vendas + 10% = 158; Faturamento por venda: ~ R$927,00 * 158 = ~ R$146.466
+- Linho: 144 vendas + 10% = 158; Faturamento por venda: ~ R$927,300 * 158 = ~ R$146.513
 - Oxford: 158 vendas + 10% = 174; Faturamento  por venda: ~ R$636,00 * 174 =  ~ R$110.664
-- Joa: 151 vendas + 10% = 166; Faturamento por venda: ~ R$642 * 166 = ~ R$106.572
+- Joa: 151 vendas + 10% = 166; Faturamento por venda: ~ R$643,00 * 166 = ~ R$106.738
 
-- Faturamento anual total (arrendondando valores): R$146.466 + R$110.664 + R$106.572 + R$80.136 + R$50.506 = ~ R$494.344 - R$461.743 (faturamento atual) = ~ R$32.600
+- Faturamento anual total: R$146.513 + R$110.664 + R$106.738 + R$80.136 + R$50.506 =  R$494.557 - R$461.743 (faturamento atual) = ~ R$32.800
 
 ***
 
