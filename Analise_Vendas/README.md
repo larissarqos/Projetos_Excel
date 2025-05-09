@@ -127,7 +127,7 @@ A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aum
 - **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio de Ipanema e Botafogo (aproximadamente R$8.000/mês), o ganho potencial anual para cada uma das lojas é de ~R$96.000. O faturamento total anual subiria de R$461,743 para  ~R$508.800, um **aumento percentual de ~11,4%**. 
 - **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
   
-#### 🧮 Cálculo da projeção:
+#### 🧮 Cálculo da projeção
 Média mensal de Ipanema e Botafogo: (R$8.370 + R$7.600) / 2 = R$7.985, arredondado para R$8.000
 Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
 
@@ -151,7 +151,7 @@ Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
 - **Projeção:** Um aumento de apenas 10% nas vendas dos três produtos mais lucrativos pode gerar um acréscimo de aproximadamente R$32.800 ao faturamento anual, um **aumento percentual de ~7,1%**.
 - **Impacto:** Elevação direta da receita sem necessidade de ampliar a cartela de produtos.
   
-#### 🧮 Cálculo da projeção:
+#### 🧮 Cálculo da projeção
 
 * **Camisa Linho:**
   Vendas atuais: 144 unidades + 10% = 158 unidades
