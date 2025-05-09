@@ -187,6 +187,4 @@ Com base nas pontuações obtidas, é possível definir estratégias direcionada
 
 <br>
 
-### 🚀 Impacto Esperado
-
 *Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
