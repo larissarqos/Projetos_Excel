@@ -170,7 +170,6 @@ Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
   
   Novo faturamento: 174 * R$636 ~ R$110.664
 
---
 
 * **Camiseta Joa:**
   
@@ -180,8 +179,6 @@ Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
   
   Novo faturamento: 166 * R$643,00 ~ R$106.738
 
---
-  
 * **Total:**
   
   Novo total dos 3 produtos: R$146.513 + R$110.664 + R$106.738 = R$363.915  
