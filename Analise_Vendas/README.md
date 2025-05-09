@@ -130,14 +130,25 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
 ### 🚀 Impacto Esperado
 A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aumento de faturamento quanto na eficiência operacional da rede de lojas. Com base nos dados de 2024, os seguintes resultados são projetados:
 
-#### 🟩 Campanhas em lojas com desempenho abaixo da meta
-- **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio das lojas que superaram a meta (R$8.119,67/mês), o ganho potencial anual é de R$32.000 a R$60.000.
+#### 🟩 Aumento no faturamento das lojas de pior desempenho (Barra e Tijuca)
+- **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio de Ipanema e Botafogo (aproximadamente R$8.000,00), o ganho potencial anual para cada uma das lojas é de ~R$96.000, equiparando-se ao faturamento de Botafogo. O faturamento total anual subiria de R$461,743 para ~R$508.000,00. Um aumento percentual de ~11,4%. 
 - **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
-- *Cálculo da projeção:*
   
-#### 🟩 Campanhas em lojas com desempenho abaixo da meta
-- **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio das lojas que superaram a meta (R$8.119,67/mês), o ganho potencial anual é de R$32.000 a R$60.000.
-- **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
+#### 🧮 Cálculo da projeção:
+- **Média mensal Ipanema e Botafogo:** R$8.370 + R$7.600,00 = R$15.970 / 2 = R$7.985. Arredondamos para R$8.000,00
+- **Aumento faturamento anual Barra e Tijuca:** R$8.000 mensais * 12 = R$96.000
+- **Faturamento anual total (arrendondando valores):** R$10.400 + R$8.400 + R$7.600 + R$8.000 + R$8.000 = R$42.400 x 12 = R$508.800 no ano
+
+--
+
+#### 🟩 Foco nos produtos de maior retorno
+- **Projeção:** Um aumento de apenas 10% nas vendas dos três produtos mais lucrativos (Camisa Linho, Oxford e Joa) pode gerar um acréscimo 
+de aproximadamente R$33.600,00 ao faturamento anual.
+- **Impacto:** Elevação direta da receita sem necessidade de ampliar a cartela de produtos.
+
+🟩 Fidelização e programas de indicação
+- **Projeção:** A fidelização de 10% a mais de clientes recorrentes, com ticket médio semelhante, pode representar um aumento estimado de R$20.000 a R$25.000 por ano.
+- **Impacto:**  Construção de uma base de clientes mais estável e rentável a longo prazo.
 
 | Cálculo da projeção |
 |---------------------|
