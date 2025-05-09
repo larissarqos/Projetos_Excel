@@ -116,10 +116,6 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
 #### 🟦 Ações por produto
 - **Aproveitar o potencial dos produtos mais lucrativos:** Campanhas de marketing direcionadas para os best-sellers (como Camisa Linho e Oxford) podem alavancar ainda mais o faturamento.
 
-#### 🟦 Ações por perfil de cliente
-- **Fidelizar clientes:** Entender os picos de vendas e oferecer benefícios para clientes recorrentes pode aumentar a retenção.
-  Lançar programas de fidelização e indicação, a fim manter nossos cliente fiéis e obter clientes de perfil semelhante a estes.
-
 ***
 
 <br>
@@ -149,10 +145,6 @@ A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aum
 
 - Faturamento anual total (arrendondando valores): R$146.466 + R$110.664 + R$106.572 + R$80.136 + R$50.506 = ~ R$494.344 - R$461.743 (faturamento atual) = ~ R$32.600
 
---
-
-🟩 Fidelização e programas de indicação
-- **Projeção:** A fidelização de 10% a mais de clientes recorrentes, com ticket médio semelhante, pode representar um aumento estimado de R$20.000 a R$25.000 por ano.
-- **Impacto:**  Construção de uma base de clientes mais estável e rentável a longo prazo.
+***
 
 *Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
