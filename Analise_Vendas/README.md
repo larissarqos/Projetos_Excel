@@ -120,9 +120,6 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
 - **Fidelizar clientes:** Entender os picos de vendas e oferecer benefícios para clientes recorrentes pode aumentar a retenção.
   Lançar programas de fidelização e indicação, a fim manter nossos cliente fiéis e obter clientes de perfil semelhante a estes.
 
-#### 🟦 Acompanhamento contínuo
-- **Monitoramento mensal por loja e produto:** Relatórios visuais e metas ajustadas com base no desempenho sazonal ajudam na tomada de decisão mais rápida e eficiente.
-  
 ***
 
 <br>
@@ -157,9 +154,5 @@ A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aum
 🟩 Fidelização e programas de indicação
 - **Projeção:** A fidelização de 10% a mais de clientes recorrentes, com ticket médio semelhante, pode representar um aumento estimado de R$20.000 a R$25.000 por ano.
 - **Impacto:**  Construção de uma base de clientes mais estável e rentável a longo prazo.
-
-***
-
-<br>
 
 *Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
