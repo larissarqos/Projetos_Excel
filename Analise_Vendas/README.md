@@ -124,13 +124,25 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
 A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aumento de faturamento quanto na eficiência operacional da rede de lojas. Com base nos dados de 2024, os seguintes resultados são projetados:
 
 #### 🟩 Aumento no faturamento das lojas de pior desempenho (Barra e Tijuca)
-- **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio de Ipanema e Botafogo (aproximadamente R$8.000), o ganho potencial anual para cada uma das lojas é de ~ R$96.000, equiparando-se ao faturamento de Botafogo. O faturamento total anual subiria de R$461,743 para ~R$508.000, um **aumento percentual de ~11,4%**. 
+- **Projeção:** Se as lojas Barra e Tijuca alcançarem o faturamento médio de Ipanema e Botafogo (aproximadamente R$8.000/mês), o ganho potencial anual para cada uma das lojas é de ~ R$96.000. O faturamento total anual subiria de R$461,743 para  ~R$508.800, um **aumento percentual de ~11,4%**. 
 - **Impacto:** Redução da disparidade entre filiais e maior previsibilidade de receita.
   
 #### 🧮 Cálculo da projeção:
-- Média mensal Ipanema e Botafogo: R$8.370 + R$7.600 = R$15.970 / 2 = R$7.985. Arredondamos para R$8.000,00
-- Aumento faturamento anual Barra e Tijuca: R$8.000 mensais * 12 = R$96.000
-- Faturamento anual total (arrendondando valores): R$10.400 + R$8.400 + R$7.600 + R$8.000 + R$8.000 = R$42.400 x 12 = R$508.800 no ano
+Média mensal de Ipanema e Botafogo: (R$8.370 + R$7.600) / 2 = R$7.985, arredondado para R$8.000
+Projeção anual para Barra e Tijuca: R$8.000 * 12 = R$96.000 (cada)
+
+* Novo faturamento anual estimado:
+
+Leblon: R$10.400 * 12 = R$124.800
+
+Ipanema: R$8.400 * 12 = R$100.800
+
+Botafogo: R$7.600 * 12 = R$91.200
+
+Barra: R$8.000 * 12 = R$96.000
+Tijuca: R$8.000 * 12 = R$96.000
+
+Total: ~R$508.800
 
 --
 
@@ -139,11 +151,38 @@ A adoção das estratégias sugeridas pode gerar impactos positivos tanto no aum
 - **Impacto:** Elevação direta da receita sem necessidade de ampliar a cartela de produtos.
   
 #### 🧮 Cálculo da projeção:
-- Linho: 144 vendas + 10% = 158; Faturamento por venda: ~ R$927,300 * 158 = ~ R$146.513
-- Oxford: 158 vendas + 10% = 174; Faturamento  por venda: ~ R$636,00 * 174 =  ~ R$110.664
-- Joa: 151 vendas + 10% = 166; Faturamento por venda: ~ R$643,00 * 166 = ~ R$106.738
 
-- Faturamento anual total: R$146.513 + R$110.664 + R$106.738 + R$80.136 + R$50.506 =  R$494.557 - R$461.743 (faturamento atual) = ~ R$32.800
+* Camisa Linho:
+  Vendas atuais: 144 unidades + 10% = 158 unidades
+  Valor médio por unidade: R$133.500 / 144 = ~ R$927,30
+  Novo faturamento: 158 * R$927,30 ~ R$146.513
+
+* Camisa Oxford:
+  Vendas atuais: 158 unidades + 10% = 174 unidades
+  Valor médio por unidade: R$100.464,00 ÷ 158 ~ R$636
+  Novo faturamento: 174 * R$636 ~ R$110.664
+
+* Camiseta Joa:
+  Vendas atuais: 151 unidades + 10% = 166 unidades
+  Valor médio por unidade: R$97.104,00 / 151 ~ R$643,00
+  Novo faturamento: 166 * R$643,00 ~ R$106.738
+
+Novo total dos 3 produtos: R$146.513 + R$110.664 + R$106.738 = R$363.915
+Faturamento atual dos 3 produtos: R$331.100
+Acréscimo estimado: R$363.915 − R$331.100 ≈ R$32.815
+
+| Produto         | Nº de Vendas | Quantidade | Faturamento Anual | % do Total  |
+|-----------------|--------------|------------|-------------------|-------------|
+| Camisa Oxford   | 158          | 480        | R$100.464,00      | 21,75%      |
+| Camiseta Navy   | 157          | 479        | R$80.136,70       | 17,36%      |
+| Camiseta Joa    | 151          | 480        | R$97.104,00       | 21,03%      |
+| Camiseta Pima   | 149          | 423        | R$50.506,20       | 10,94%      |
+| Camisa Linho    | 144          | 446        | R$133.532,40      | 28,92%      |
+| **Total**       | **759**      | **2.308**  | **R$461.743,30**  | **100%**    |
+
+
+
+
 
 ***
 
