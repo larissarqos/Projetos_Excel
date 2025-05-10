@@ -108,7 +108,7 @@ Avaliação geral positiva. As principais queixas envolvem:
 ### 📈 Recomendações Estratégicas
 De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
-#### 🟩 Relativas ao faturamento:
+#### 🟦 Relativas ao faturamento:
 * **Oferecer upgrades de planos:** Incentivar migração para planos como o Premium X, destacando seus diferenciais.
 
 * **Expandir presença no PR e SC:** Campanhas regionais, sistema de indicação e promoções específicas para atrair novos clientes.
@@ -117,7 +117,7 @@ De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 
 --
 
-#### 🟩 Relativas ao tendimento:
+#### 🟦 Relativas ao tendimento:
 * **Revisar processos de entrega:** Garantir testes de qualidade, verificação de itens e avaliar performance da transportadora.
 
 * **Aprimorar o suporte ao cliente:** Avaliar tempo e eficácia nas respostas, oferecer soluções que gerem satisfação (ex: descontos, trocas ágeis de danificados).
@@ -125,10 +125,5 @@ De acordo com a análise dos dados, segue sugestões de ações para melhorias:
 ***
 
 <br>
-
-### 🚀 Impacto Esperado
-
-
----
 
 *Este projeto foi desenvolvido como parte do meu portfólio em análise de dados. Sinta-se à vontade para explorar os dados, sugerir melhorias ou entrar em contato!*
